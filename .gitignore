@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+source/config.ini
+source/k1bs79.seesion
+config.ini
+k1bs79.seesion
+.ini
+.session
+

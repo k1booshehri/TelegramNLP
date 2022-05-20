@@ -1,0 +1,1000 @@
+Microsoft has discovered that the activity of the Linux botnet malware known as XorDdos has increased by 254 in the last six months.Read  ,technews
+Google researchers have pointed fingers at spyware company Cytrox for developing exploits for 5 zeroday vulnerabilities including 4 in Chrome and 1 in Android to remotely hack targeted Android devices.Read  ,technews
+Researchers discover a new Rust Crate Registrys software supply chain attack targeting cloud continuous integration CI pipelines with malware written in the Go language.Read  ,technews
+The North Koreanbacked Lazarus hacker group has been observed exploiting the Log4Shell vulnerability in VMware Horizon servers to deploy the NukeSped implant  aka Manuscrypt against targets in its southern counterpart.Read  ,technews
+QNAP urges its users to update their networkattached storage NAS devices immediately to prevent a new wave of Deadbolt ransomware attacks.Read details  ,technews
+A novel Bluetooth relay attack could allow attackers to remotely unlock and operate cars open smart locks in residential buildings and breach secured areas more easily than ever before.Read  ,technews
+Google has patched a highseverity vulnerability in its OAuth library for Java that could be exploited by a malicious actor with a compromised token to trigger arbitrary payloads.Read  ,technews
+Web trackers running in the background of several of the worlds most popular websites are intercepting emails and passwords of visitors even before they submit an online form.Read  ,technews
+VMware has issued patches to address two new vulnerabilities  CVE202222972 and CVE202222973  affecting Workspace ONE Access Identity Manager and vRealize Automation which can be exploited to backdoor enterprise networks.Read  ,technews
+Researchers reveal the inner working of a cybercriminal group known as Wizard Spider providing unprecedented visibility into its structure background and motivations.Read details   ,technews
+Microsoft warns of a new malicious campaign targeting SQL Servers that involves use of a builtin PowerShell utility sqlps.exe to achieve fileless persistence on compromised systems.Read  ,technews
+U.S. State Department Treasury Department and FBI warn that highly skilled North Korean software and app developers are posing as nonDPRK nationals to work as freelancers or IT consultants enabling the regimes malicious cyberattacks.Read  ,technews
+Microsoft warns against cryware malware that steals information and exfiltrates data directly from untrusted cryptocurrency wallets.Read  ,technews
+Russian Conti ransomware gang has threatened to overthrow the newly elected government of Costa Rica with a cyberattack and has increased its ransom demand to 20 million in order to obtain a decryption key to unlock the hacked systems.Read  ,technews
+More than 200 apps masquerading as fitness photo editing and puzzle apps on Google Play Store have been caught infecting users Android devices with the Facestealer spyware which steals credentials and valuable cryptocurrency information. ,technews
+In a firstofitskind study researchers have demonstrated a novel attack surface that could allows malware to be executed on the iPhone while the phone is OFF.Read  ,technews
+Researchers are warning about a new malware toolkit called Eternity Project that allows professional and amateur cybercriminals to buy stealers clippers worms miners ransomware and a distributed denial of service DDoS bot.Read  ,technews
+A 28yearold Ukrainian national has been sentenced to four years in prison for siphoning thousands of server credentials and selling them on the darkweb to make money.Read  ,technews
+European Parliament announced a provisional agreement on NIS2 a new directive that aims to improve cybersecurity by setting stricter ground rules for critical industries such as energy financial markets health and digital infrastructure. ,technews
+SonicWall has published an advisory warning of three new vulnerabilities in its Secure Mobile Access SMA 1000 appliances including a highthreat authentication bypass vulnerability.Read  ,technews
+Google has announced the creation of a new Open Source Maintenance Crew to focus on improving the cybersecurity of critical open source projects.Read  ,technews
+Jordans foreign ministry has been targeted by a spearphishing campaign dropping a stealthy backdoor dubbed Saitama.Read  ,technews
+Zyxel has released a patch to address a critical security vulnerability affecting firewall devices that can allow unauthenticated and remote attackers to gain arbitrary code execution.Read  ,technews
+Iranian hackers leverage legitimate tools like BitLocker and DiskCryptor in ransomware attacks against organizations in Israel the U.S. Europe and Australia.Read  ,technews
+European Commission has proposed a new regulation that would require technology companies to scan for child sexual abuse material CSAM and grooming behavior raising privacy concerns about the potential impact on endtoend encryption. ,technews
+Researchers have identified a massive campaign responsible for injecting malicious JavaScript code into thousands of compromised WordPress websites that redirect visitors to scam pages and other malicious websites to generate illegitimate traffic.Read  ,technews
+ EXCELLENTGoogle will soon allow users to generate virtual credit cards when making online payments via the Chrome browser and Android  an important step towards protecting real credit cards.Details  ,technews
+Cybersecurity agencies from Australia Canada New Zealand the United Kingdom and the United States jointly issued a warning Wednesday about threats targeting managed service providers MSPs and their customers.Read  ,technews
+Experts unveil IceApple postexploitation framework hackers used on hacked Microsoft Exchange servers to facilitate credential harvesting from localremote host registries credential logging on OWA servers reconnaissance  data exfiltration. ,technews
+Following reports of active exploitation in the wild the U.S. cybersecurity agency CISA is urging companies to patch the newly discovered vulnerability in F5 BigIP which could allow attackers to take over multipurpose network devices.Read  ,technews
+Espionagefocused hacking group Bitter APT known for its attacks on China Pakistan and Saudi Arabia is now targeting government organisations in Bangladesh as part of an ongoing campaign that began in August 2021. ,technews
+Cybersecurity researchers warn of Nerbian RAT a new remoteaccess trojan RAT malware written in the Go programming language that is attacking businesses in Italy Spain and the United Kingdom.Read  ,technews
+Researchers uncover a new NPM supplychain attack campaign in which attackers distribute malicious packages to compromise leading German industrial companies.Read  ,technews
+Five Eyes nations along with Ukraine and the EuropeanUnion officially blamed Russia for masterminding the cyberattack on an international satellite communication provider that had a spillover effect across Europe.Read  ,technews
+Microsoft releases patches for 74 newly reported security vulnerabilities including one for a ZERODAY bug that is actively being exploited in the wild.Read details  ,technews
+Analysis of some new REvil ransomware samples shows that the notorious cybercriminal gang has resumed its activities after six months of inactivity.Read  ,technews
+Cybersecurity researchers have dissected the inner workings of an informationstealing malware called Saintstealer thats designed to siphon credentials and system information.Read  ,technews
+A vulnerability CVE202229972 in Microsoft Azure Synapse and Azure Data Factory could have led to remote code execution attacks allowing attackers to gain control of other Synapse workspaces and leak sensitive data including Azure service keys and API tokens as well as passwords for other services.Read  ,technews
+U.S. PHMSA agency is proposing nearly 1 million in penalties against Colonial Pipeline for violating several federal pipeline safety regulations while dealing with a massive ransomware attack last year.Read  ,technews
+RubyGems package manager has fixed a critical bug that would have allowed attackers to remove gems and replace them with malicious versions.Read  ,technews
+Cybersecurity researchers have shed light on an actively maintained remote access trojan called DCRat  aka DarkCrystal RAT which can be purchased for dirtcheap prices making it accessible to both professional criminals and novices.Read  ,technews
+Cybercriminals are once again abusing Google Play Store to spread a new set of trojanized apps that infect Android devices with the Joker malware.Read  ,technews
+Ukraines CERT warns citizens of a new wave of cyberattacks infecting compromised systems with a new malware called Jester Stealer that steals login credentials cookies and credit card information along with data from passwords managers chat messengers email clients crypto wallets and gaming apps to the attackers.Read  ,technews
+U.S. State Department is offering a reward of up to 10 million for information leading to the identification of key individuals who are part of the notorious Conti ransomware gang.Read  ,technews
+Researchers have developed an exploit for the latest remote code execution vulnerability in F5s BIGIP family of products.Details  ,technews
+U.S. Treasury Department has sanctioned cryptocurrency mixer Blender for helping North Korean hackers launder millions of dollars.Read  ,technews
+A new fileless malware has been discovered that takes advantage of Windows event logs to hide chunks of shellcode for the first time in the wild.Details  ,technews
+QNAP has issued firmware updates to address 9 new vulnerabilities affecting networkattached storage NAS devices including a critical vulnerability that could be exploited to take over affected systems.Read  ,technews
+Security researchers have discovered a new Windows malware with wormlike capabilities that spreads via removable USB devices.Read  ,technews
+Hackers using PrivateLoaders payperinstall PPI service to spread a fairly sophisticated NetDooka malware framework that gives attackers complete control over infected devices.Read  ,technews
+Researchers uncover a new cyber espionage campaign by Chinese Mustang Panda hackers using PlugX implant custom stagers reverse shells and Meterpreterbased shellcode to persist longterm on infected endpoints.Read  ,technews
+Google releases monthly security patches for Android with fixes for 37 vulnerabilities in various components including a fix for an actively exploited vulnerability in the Linux kernel.Details  ,technews
+The National Institute of Standards and Technology NIST has published updated cybersecurity guidelines for managing risks in the supply chain which is increasingly proving to be a lucrative attack vector.Read  ,technews
+Google announced plans to implement support for passwordless logins in Android and the Chrome web browser allowing users to log in across devices and websites regardless of platform.Read  ,technews
+Researchers disclose details of two decadeold highseverity vulnerabilities in Avast and AVG antivirus solutions that could be exploited by attackers to take full control of targeted systems.Read  ,technews
+An insecure database from debt collection service ENCollect exposed data of hundreds of thousands of borrowers had a total storage size of 5.8 GB and contained a total of 1686363 records.Read  ,technews
+Salesforceowned Heroku begins resetting users passwords following the theft of GitHub OAuth tokens which involved unauthorized access to an internal customer database.Read  ,technews
+WATCH OUT F5 warns of a new critical BIGIP remote code execution vulnerability CVE20221388 due to missing authentication checks that could allow attackers to gain control of affected systems.Details  ,technews
+The U.S. Securities and Exchange Commission SEC has announced that it will increase the size of its enforcement unit to combat cyber threats and frauds and protect investors in cryptocurrency markets.Read  ,technews
+Chinas Winnti hackers also tracked as APT41 Blackfly and BARIUM have been spotted stealing sensitive proprietary data from technology and manufacturing firms in East Asia Western Europe and North America.Read  ,technews
+A critical RCE vulnerability CVE202226352 has been reported in the opensource dotCMS content management system which is used by more than 10000 customers in 70 countries including Fortune 500 brands and midsized companies.Read  ,technews
+Googles Threat Analysis Group TAG says statebacked hackers and cybercriminals from China Iran North Korea and Russia are increasingly using RussianUkrainian Warthemed documents as bait for phishing and malware campaigns.Read  ,technews
+Researchers have discovered 5 new security vulnerabilities  dubbed TLStorm 2.0  in multiple models of Aruba and Avaya network switches that could be exploited for remote access to enterprise networks and data theft.Read  ,technews
+Researchers analyze dozens of communications between Conti and Hive ransomware operators and victims revealing the actors communication style persuasion tactics ransom negotiation techniques operational and targeting details and more. ,technews
+Researchers have detected a new variant of AvosLocker ransomware that uses a legitimate driver file to disable antivirus solutions and evade detection.Read  ,technews
+Chinaaligned Moshen Dragon cyberespionage group has been caught using abusing popular antivirus products to sideload malware into telecommunications systems operating in Central Asia.Read details  ,technews
+A newly discovered UNPATCHED vulnerability CVE20220502 affects the DNS implementation of two popular libraries Clibc and uClibcng used in a number of IoT devices allowing attackers to perform DNS poisoning attacks on targeted devices. ,technews
+A newly discovered suspected espionage hacking group dubbed UNC3524 is targeting the emails of employees involved in corporate development mergers and acquisitions and large corporate transactions.Read  ,technews
+GitHub describes the recent cyberattack campaign involving the abuse of OAuth access tokens issued to Heroku and TravisCI as highly targeted in nature.Read  ,technews
+Chinese statesponsored Override Panda hackers have resurfaced in recent weeks with new cyberespionage attacks aimed at stealing sensitive information.Read  ,technews
+In a new campaign Russian statesponsored Cozy Bear APT29 hackers have been spotted targeting diplomatic and government organizations in Europe America and Asia.Read  ,technews
+Google has officially released the first developer preview for the Privacy Sandbox on Android 13 offering an early look at the SDK Runtime and Topics API to improve users privacy online.Read  ,technews
+OpenSSF project has released a tool that scans popular opensource repositories for malicious packages. Named Package Analysis the tool identified more than 200 malicious packages in just one month of analysis.Details  ,technews
+Russia has launched over 200 destructive and relentless cyberattacks on Ukraine since the war started Microsoft says.Read  ,technews
+A pair of security issues have been reported in the Microsoft Azure database for PostgreSQL Flexible Server that could have allowed unauthorized crossaccount access to databases.Read  ,technews
+Indian government has issued new guidelines that make it mandatory for service providers intermediaries data centers and government agencies to report cybersecurity incidents to CERTIn within 6 hours.Read  ,technews
+Researchers detail three hacking teams working under the umbrella of the cyberespionage group TA410 named FlowingFrog LookingFrog and JollyFrog each with its own toolset and is known to target a variety of critical infrastructures.Read  ,technews
+Twitters new owner Elon Musk wants to make the platforms direct messages DM endtoend encrypted like Signal Messenger so no one can spy on or hack your messages.Read  ,technews
+Cybercriminals behind the BazaLoader and IcedID malware attacks now use a new multifunctional loader called Bumblebee that drops Cobalt Strike shellcode Sliver and the Meterpreter backdoor on target computers.Read  ,technews
+A new malware campaign leveraging an exploit kit has been observed infecting victims computers with the RedLine stealer trojan.Read details  ,technews
+U.S. cybersecurity agency CISA has published a list of top 15 software vulnerabilities that were routinely exploited in 2021.Read Details  ,technews
+CloudFlare thwarts yet another record HTTP distributed denialofservice DDoS attack peaking at 15.3 million requests per second.Read details  ,technews
+WATCH OUTQNAP advises NAS device users to immediately mitigate new remote hacking flaws until patches are available.Read details  ,technews
+Google introduces a new Data Safety section for Android apps in the Play Store to highlight the type of data that is collected and shared with thirdparties.Read details  ,technews
+A logical flaw has been disclosed in the NPM package manager that allowed attackers to pass off malicious libraries as legitimate by adding notable developers as contributors without their knowledge tricking unsuspecting devs into installing them. ,technews
+Microsoft discovers a set of two new root privilege escalation vulnerabilities affecting Linux systems  tracked as CVE202229799  CVE202229800 and collectively called Nimbuspwn that can be exploited to perform malicious actions.Read  ,technews
+Emotet botnet which relied largely on malicious Word documents with embedded macros to infect victims systems is now testing new methods to spread malware after Microsoft disabled VBA macros by default.Details  ,technews
+Researchers have uncovered a recent hacking campaign by a North Koreanbacked hacking group that targeted journalists. The group attempted to install backdoors in the Windows systems of journalists covering the country.Read  ,technews
+Iranlinked Rocket Kitten hackers have been exploiting the recently disclosed RCE vulnerability in VMware Workspace ONE Access and Identity Manager to access unpatched systems and deploy CORE IMPACT backdoor. ,technews
+A new vulnerability has been disclosed in the web version of the Ever Surf wallet for Everscale blockchain that could allow a hacker to gain complete control over a victims cryptocurrency wallet. ,technews
+A new variant of an IoT botnet called BotenaGo has emerged in the wild specifically targeting Lilin security camera DVR devices to infect them with Mirai malware. ,technews
+FBI warns against the BlackCat ransomwareasaservice RaaS which has victimized at least 60 companies worldwide since it emerged last November  as of March 2022.Details  ,technews
+TMobile admits that the Lapsus hackers gained access to the companys internal tools and source code in March prior to the arrest of its seven members.Read details  ,technews
+A critical authentication bypass vulnerability CVE20220540 and CVSS 9.9 has been discovered in Seraph affecting Atlassian Jira and Jira Service Management.Read details  ,technews
+Cybersecurity researchers warn of LemonDuck cryptocurrency mining botnet targeting Docker and TeamTNT hacker group attacking Kubernetes and public cloud providers to mine cryptocurrencies.Read details  ,technews
+QNAP has issued a notice recommending users update firmware for networkattached storage NAS appliances to fix two vulnerabilities affecting the Apache HTTP component.Read  ,technews
+Cisco has released security updates to address three highseverity vulnerabilities in its TelePresence RoomOS and Umbrella VA products that could be exploited to conduct DoS attacks and take control of affected systems.Read  ,technews
+A new unpatched vulnerability has been disclosed in the RainLoop webmail client that could allow hackers to remotely access the victims inbox by sending a specially crafted email.Read details  ,technews
+Researchers have found three vulnerabilities in the audio decoders of Qualcomm and MediaTek Android mobile chips that if exploited could allow hackers to remotely access media and audio conversations on affected devices.Read  ,technews
+Researchers have published a new incident report revealing how hackers exploited ProxyShell vulnerabilities in Microsoft Exchange to encrypt companies networks with Hive ransomware.Read details  ,technews
+Five Eyes nations have released a joint cybersecurity advisory warning of an increase in malicious attacks by Russian statesponsored actors and criminal groups on critical infrastructure amid the ongoing military siege of Ukraine.Read  ,technews
+Google Project Zero called 2021 a record year for inthewild 0days as 58 security vulnerabilities were detected and disclosed during the course of the year.Details  ,technews
+Researchers disclose details about a nowpatched vulnerability in the Snort Intrusion Detection and Prevention System that could allow attackers to render it powerless against malicious traffic.Read details  ,technews
+Okta said it concluded its investigation into the breach of a thirdparty vendor by the LAPSUS extortionist gang in late January 2022 and determined only two customers were affected.Read details  ,technews
+CISA has issued a new warning that hackers are exploiting a recently reported vulnerability in the Windows Print Spooler as well as two other vulnerabilities in Zimbra and WhatsApp that are being exploited.Read  ,technews
+Researchers discover multiple UEFI firmware vulnerabilities in various Lenovo laptop models that allow malicious actors to install and execute firmware implants on the affected devices.Read details  ,technews
+A previously unknown zeroclick exploit for Apples iMessage was used to install spyware from NSO Group and Candiru on 65 people as part of a multiyear clandestine operation.Read details  ,technews
+U.S. government has issued a new warning about North Korean statesponsored hackers targeting blockchain companies including cryptocurrency exchanges DeFi protocols trading firms venture capital funds and individuals holding NFTs.Read  ,technews
+Githubs security team has notified usersorganizations whose private data was downloaded with stolen OAuth user tokens issued to two thirdparty OAuth integrators Heroku and TravisCI.Details  ,technews
+Researchers provide a detailed technical analysis of the PYSA ransomware group primarily striking government healthcare and education sectors.Read details  ,technews
+Cybersecurity researchers have uncovered a new version of the SolarMarker malware that packs in new enhancements to improve its ability to evade defenses and stay under the radar.Read details  ,technews
+Ukraine government has warned of a new wave of hacking campaigns that spread IcedID malware and exploit Zimbra exploits to steal sensitive information.Details  ,technews
+A critical RCE vulnerability has been reported in the WordPress plugin Elementor Website Builder with over five million active installations which could allow attackers to take over unpatched websites.Details  ,technews
+U.S. authorities report that NorthKorean Lazarus hackers were responsible for the 540 million Axie Infinity crypto hack while Symantec researchers warn that the group is now targeting chemical companies in an ongoing cyberespionage campaign. ,technews
+GitHub finds that hackers abused stolen OAuth access tokens issued to 2 thirdparty OAuth integrators Heroku and TravisCI to unauthorizedly download private data from several organizations.Details  ,technews
+Researchers publish details of 5 new vulnerabilities dubbed JekyllBot5 that affect Aethon Tug hospital robots and could allow attackers to intercept medication and lab samples and control the devices.Read  ,technews
+Haskers gang has released a new information stealing malware called ZingoStealer for free to other cybercriminals so that they can use the tool for nefarious purposes.Read details  ,technews
+A highlycritical vulnerability CVE202222966 has been discovered in VMWare Cloud Director that can be exploited for RCE attacks allowing attackers to gain access to sensitive data  take over private clouds within an entire infrastructure. ,technews
+An urgent update for Google Chrome browser has been released to patch a new zeroday security vulnerability CVE20221364 that is being actively exploited by hackers.Read details  ,technews
+Former Ethereum developer Virgil Griffith has been sentenced to 5 years and 3 months in prison and fined 100000 for helping NorthKorea evade sanctions.Read details  ,technews
+Cybersecurity researchers have disclosed a security flaw in the Rarible nonfungible token NFT marketplace that could have allowed attackers to takeover cryptocurrency wallets.Read  ,technews
+Keksecs new EnemyBot DDoS botnet borrows features and exploit code from Mirai and Gafgyt malware.Read details  ,technews
+Microsoft and a consortium of cybersecurity companies took legal and technical steps to disrupt the ZLoader cybercrime botnet.Read details  ,technews
+U.S. cybersecurity and federal agencies have issued a joint warning against APT hackers who are continually targeting critical infrastructure with specially designed malware that can scan compromise and control certain ICSSCADA devices. ,technews
+A week after VMware released patches to fix 8 vulnerabilities in VMware Workspace ONE Access threat actors have begun actively exploiting one of the critical vulnerabilities CVE202222954 in the wild.Details  ,technews
+Microsoft exposes the way Chinese hackers hide Tarrask malware on Windows machines in order to avoid detection.Read details  ,technews
+Russian hacker group Sandworm attempted to sabotage the operation of Ukraines power grid with a new destructive variant of the Industroyer malware.Read details  ,technews
+Law enforcement agencies have raided and seized the site and user database of RaidForums one of the most notorious hacking forums that sell access to hacked personal data.Read   forum administrator and his two accomplices have also been arrested.,technews
+Microsoft releases April 2022 Patch Tuesday updates to fix a total of 128 new flaws.Read   of them are classified as critical 115 as important and three as moderate with one vulnerability already publicly known and another being actively exploited.,technews
+Researchers have reported a critical LFI vulnerability in the developerfocused blogging platform Hashnode that could have let attackers to access sensitive data such as SSH keys the servers IP address and other network information.Read  ,technews
+At least five senior European Union officials were reportedly targeted with NSO Groups Pegasus surveillance tool.Read details  ,technews
+Maintainers of the NGINX web server project have published workarounds to address a publicly discussed potential zeroday vulnerability affecting the LDAP Reference Implementation.Read details  ,technews
+Google is taking legal action against a scammer who runs fraudulent websites to trick unsuspecting people into buying nonexistent puppies.Read details  ,technews
+Parrot Traffic Direction System TDS is leveraging over 16500 compromised websites to spread various malware families including Campo Loader Hancitor IcedID QBot Buer Loader and SocGholish. ,technews
+Cybersecurity researchers warn against two different informationstealing malware named FFDroider and Lightning Stealer which are capable of siphoning off data and launching further attacks.Details  ,technews
+The second Tuesday of every month will be just another Tuesday.Microsoft to launch a new feature with the release of Windows 1011 Enterprise E3  called Autopatch  to help companies automatically keep their systems uptodate.Details  ,technews
+Hackers are exploiting recently disclosed critical Spring4Shell vulnerability to execute the Mirai botnet.Read details  ,technews
+Researchers have traced cyberattacks on Indian power grid organizations to a statesponsored hacking group in China.Read details  ,technews
+Researchers have uncovered further links between the BlackCat aka AlphaV and BlackMatter ransomware families.Read details  ,technews
+Ukrainian national who was part of the FIN7 hacking group has been sentenced to five years in prison for compromising tens of millions of debit and credit cards. ,technews
+Microsoft has obtained a court order to take control of 7 domains used by the statesponsored Russian hacking group APT28 to neutralize its attacks on Ukraine.Read details  ,technews
+A number of malicious Android apps on the Google Play Store have infected the devices of thousands of users with Octo banking trojan that targets banks and other financial institutions.Read details  ,technews
+Researchers have discovered what is believed to be the first malware targeting Amazon Web Services AWS serverless platform Lambda.Read details  ,technews
+Researchers uncover details of a Hamaslinked hacking campaign targeting a group of highlevel Israeli targets working for sensitive defense law enforcement and emergency services organizations.Details  ,technews
+SharkBot banking trojan has resurfaced on the Google Play Store disguised as antivirus apps installed by thousands of Android users.Read  ,technews
+Cybersecurity researchers have uncovered a simple but efficient persistence mechanism used by a relatively nascent malware loader called Colibri.Read details  ,technews
+VMware releases critical patches for several products affected by a new set of vulnerabilities CVE202222954 to CVE202222961 some of which could be exploited for RCE attacks.Read details  ,technews
+Watch out Hackers spread malicious Android apps under the guise of seemingly harmless shopping apps to target customers of eight Malaysian banks.Read details  ,technews
+Ukraine warns of a new wave of cyberattacks aimed at hacking users Telegram messenger accounts and also attributed another social engineering campaign to Russiabased hacking group Armageddon with ties to the FSB.Details  ,technews
+Block admits a data breach involving a former employee who accessed Cash App U.S. customers information.Read details  ,technews
+The U.S. Treasury Department imposed sanctions on Hydra on Tuesday the same day German law enforcement authorities disrupted the worlds largest dark web marketplace as part of a coordinated operation in cooperation with U.S. authorities.Read  ,technews
+Cybercrime group FIN7 has started to collaborate with several ransomware groups and has diversified its initial access vectors to compromise the software supply chain and use stolen credentials.Read  ,technews
+German authorities shut down Russian Hydra DarkNet market and seized 25 million in Bitcoin.Read   to reports there were around 17 million customers and over 19000 seller accounts registered on the marketplace.,technews
+Researchers have linked widespread cyberespionage attacks to a Chinese hacker group called Cicada that has been attacking organizations around the world including government legal religious and NGOs.Details  ,technews
+Email marketing service Mailchimp was hacked and customers accounts were accessed to carry out phishing attacks including users of cryptocurrency wallet company Trezor.Read details  ,technews
+U.S. cybersecurity agency CISA has included the recently disclosed Remote Code Execution RCE vulnerability affecting Spring Framework in its Known Exploited Vulnerabilities Catalog based on evidence of active exploitation.Details  ,technews
+Researchers uncover a new Android spyware with a C2 server linked to the Turla hackers masquerading as a process manager service to stealthily siphon off sensitive information stored on infected devices.Details  ,technews
+Several statesponsored hacker groups are using the ongoing RussianUkrainian war as bait to attack a variety of sectors including energy finance and government with malware and steal sensitive information.Read  ,technews
+A new attack dubbed Brokenwire could allow remote attackers to disrupt the ability to charge electric vehicles at scale from a distance of as far as 47m.Read details  ,technews
+Researchers have shed light on a previously undocumented sophisticated informationstealing malware called BlackGuard that is advertised for sale on Russian underground hacking forums.Read details  ,technews
+Beastmode DDoS botnet is now exploiting recently disclosed vulnerabilities in TOTOLINK routers to infect unpatched devices and expand its reach potentially.Read details  ,technews
+A 15yearold developer account hijacking vulnerability has been disclosed in the PEAR PHP repository that couldve allowed attackers to launch supplychain attacks by releasing new malicious versions of existing packages.Details  ,technews
+British police have charged 2 of the 7 teenagers arrested last week for their alleged links to the LAPSUS data extortion gang.Read details  ,technews
+DevOps platform GitLab has released software updates to fix a critical vulnerability CVE20221162 that could allow attackers to hijack accounts.Read details  ,technews
+Researchers have found a Russian wiper malware dubbed AcidRain believed to be responsible for the recent cyberattack on Viasat that temporarily knocked KASAT modems offline.Read details  ,technews
+Critical vulnerabilities CVE20221161 CVE20221159 reported in Rockwell PLCs  engineering workstation software that can be exploited to inject malicious code and stealthily modify automation processes.Details  ,technews
+Chinese APT hacker group Deep Panda exploits the infamous Log4Shell vulnerability in VMware Horizon to infect targeted servers with rootkit malware signed with a stolen digital certificate.Details  ,technews
+North Korean statebacked Lazarus hacking group has been spreading backdoored versions of DeFi wallet apps to gain remote access to victims systems and steal their cryptocurrencies.Read details  ,technews
+Zyxel releases patches for a critical authentication bypass vulnerability CVE20220342 affecting its firewalls and enterprise VPN products.Read details  ,technews
+Apple is rolling out emergency security patches to address 2 new zeroday vulnerabilities affecting iOS iPadOS and macOS operating systems that may have been exploited in the wild.Details  ,technews
+Important  Spring Framework maintainers have released an emergency patch to address a newly disclosed RCE vulnerability CVE202222965 that could allow unauthenticated attackers to take control of targeted systems.Details  ,technews
+3 New security vulnerabilities have been discovered in the popular Wyze Cam devices that could allow attackers to execute arbitrary code and access camera feeds.Read details  ,technews
+Researchers have discovered the first Pythonbased ransomware strain that specifically targets exposed Jupyter notebooks a webbased interactive computing platform.Read details  ,technews
+Hackers are increasingly using the recently disclosed browserinthebrowser BitB technique as part of their credential phishing campaigns exploiting the ongoing RussianUkrainian war.Read details  ,technews
+Researcher discloses PoC for a new UNPATCHED zeroday remote code execution vulnerability in the Java Spring Framework threatening the security of enterprise systems and web apps worldwide.Details  ,technews
+QNAP warns that a selected number of its networkattached storage NAS devices are affected by a recently disclosed Infinite Loop bug in the opensource OpenSSL encryption library.Details  ,technews
+Researchers have uncovered a new malware campaign in which attackers are using a cracked version of the Mars backdoor and spreading it via Google ads to steal information stored in web browsers and cryptocurrency wallets.Read  ,technews
+Researchers demonstrate a new vulnerability in remote keyless entry system that could allow thieves to remotely unlock and even start Honda and Acura vehicles.Read details  ,technews
+ LAPSUS gang announced their return on after a weeklong vacation leaking a large amount of data 70 GB allegedly from the software company Globant including the source code for some of its customers. ,technews
+U.S. Cybersecurity Agency CISA and the Department of Energy DoE have issued a joint warning against attacks on Internetconnected uninterruptible power supply UPS devices.Read details  ,technews
+A potentially critical SonicOS vulnerability affects SonicWall firewall appliances allowing unauthenticated remote attackers to execute arbitrary code and cause a denialofservice DoS condition.Read details  ,technews
+Researchers have observed a new Transparent Tribe hacking campaign targeting Indian government and military entities.Read details  ,technews
+A group of academics has designed a new system called Privid that provides privacypreserving surveillance video analytics to combat concerns about invasive tracking.Read details  ,technews
+Hackers using a complex and powerful malware loader with the goal of installing cryptocurrency miners on compromised systems and potentially enabling the theft of Discord tokens.Details  ,technews
+Researchers have uncovered a largescale supply chain attack which exploited dependency confusion attacks on NPM repository by uploading more than 800 malicious packages.Read details  ,technews
+This Mandiant incident report for Oktas Lapsus breach details the entire timeline of events.Read details  ,technews
+Cybercriminals are exploiting unpatched Microsoft Exchange servers to hijack email reply chains tricking victims into installing IceID infostealing malware.Read details  ,technews
+Purple Fox hackers have been using a new FatalRAT variant in their recent malware distribution campaigns and have also improved evasion mechanisms to bypass security software.Read details  ,technews
+Muhstik botnet is targeting Redis servers using a recently disclosed highly critical vulnerability CVE20220543  CVSS 10.0 in the database system.Read details  ,technews
+U.S. Federal Communications Commission FCC has added Russian cybersecurity firm Kaspersky Lab and two Chinese telecom firms on its list of national security threats saying they pose an unacceptable risk to the countrys national security. ,technews
+Another Chinese hacker group has entered the fray of the Ukraine conflict and is attacking victims with the HeaderTip backdoor.Read details  ,technews
+Google has rolled out an urgent outofband update for the Chrome browser for millions of Windows macOS and Linux users to patch a new actively exploited zeroday vulnerability.Read details  ,technews
+How to Build a Custom Malware Analysis Sandbox  ,technews
+British police have arrested seven suspected members aged 16 to 21 of the cyber extortion and hacking gang LAPSUS which attacked Okta Microsoft and Nvidia.Read details  ,technews
+At least 2 distinct groups of North Korean state sponsored hackers exploited a ZERODAY CVE20220609 vulnerability in Google Chrome to launch cyberattacks on the fintech IT and media industries.Read details  ,technews
+A 23yearold Russian national has been indicted in the U.S. and added to the FBIs Cyber Most Wanted list for allegedly administering a cybercrime forum that sold stolen login credentials personal and credit card data.Read  ,technews
+Researchers have traced the LAPSUS cyberattacks to a 16yearold hacker in England.Read details  ,technews
+Researchers identified over 200 malicious NPM packages distributed via official repositories that targeted Microsoft Azure developers.Read  ,technews
+VMware releases patches for critical vulnerabilities in Carbon Black App Control including a command injection CVE202222951 and a file upload vulnerability CVE202222952.Read details  ,technews
+Hackers from the Chinese cyberespionage group Mustang Panda deploying a new variant of the Korplug malware dubbed Hodur.Read details  ,technews
+A new variant of Gimmick malware has been spotted thats designed to target Apple macOS systems.Read details  ,technews
+More than 200000 MicroTik routers worldwide are controlled by botnet malware described by cybersecurity researchers as one of the largest botnetasaservice cybercrime operations in recent years.Details  ,technews
+ Microsoft and Okta confirm the breach after LAPSUS hackers posted stolen source code and screenshots online showing access to the companys internal systems.Read details  ,technews
+Lapsus hacker group claim to have breached Microsoft  authentication company Okta and released 37 GB of data including source code for Bing Search Bing Maps and Cortana Microsofts virtual assistant. ,technews
+A set of newly disclosed critical vulnerabilities in Dell BIOS software affect millions of Edge Inspiron Vostro XPS Latitude and Alienware series computers.Read details  ,technews
+A researcher warns of a new browserinthebrowser BITB technique that could allow attackers to spoof a legitimate domain to launch nearly undetectable phishing attacks and steal credentials.Read details  ,technews
+Hackers use an opensource package installer to compromise French entities in the construction real estate and government sectors with a new backdoor called Serpent.Read details  ,technews
+CryptoRom crypto scammers trick unsuspecting victims into installing fake apps by exploiting legitimate iOS features like TestFlight and Web Clips.Read details  ,technews
+Researchers uncover details of a hacking campaign by South Korean hacker group DarkHotel that targeted luxury hotels and resorts in Macau.Read details  ,technews
+ Hackers have been spotted deploying a new rootkit targeting Oracle Solaris systems at Banks in an attempt to compromise the switching networks of ATMs ATM and perform unauthorized cash withdrawals.Read  ,technews
+Google has uncovered a financially motivated initial access broker group that appears to be working with the Conti ransomware gang.Read details  ,technews
+Cisco Talos researchers have found evidence that some cybercriminal affiliates of BlackMatter are now spreading BlackCat ransomware.Details  ,technews
+A new variant of the Cyclops Blink botnet malware is now targeting ASUS routers in an attempt to build an infrastructure for further cyberattacks on highvalue targets.Read details  ,technews
+ Developer of a popular NPM package has intentionally updated the library to wipe and replace data with a  heart emoji on all systems running it from Russia or Belarus to protest against the invasion of Ukraine.Details  ,technews
+Cybersecurity researchers from Avast have found that the wormable module of the DirtyMoe botnet has gained several new exploits that allow the malware to spread quickly to other computers.Read details  ,technews
+A new report from Microsoft explains how TrickBot malware is leveraging hacked IoT devices serve proxies for its commandandcontrol infrastructure.Read  ,technews
+Ukrainian Secret Service has arrested a hacker who was helping Russian troops invade.Read details  ,technews
+A new vulnerability CVE20220811 in the CRIO engine dubbed cr8escape could allow attackers to escape Kubernetes containers and gain root access.Read details  ,technews
+A new B1txor20 Linux botnet malware has been discovered that spreads via the Log4J vulnerability and uses DNS tunnels for covert C2 communications.Read details  ,technews
+A new infinite loop vulnerability CVE20220778 in OpenSSL could allow attackers to crash remote servers by passing a malformed certificate.Read details  ,technews
+A new unpatched RCE vulnerability in the dompdf PHP project affects HTML to PDF converters.Read details  ,technews
+FBI and CISA warn that Russian statesponsored hackers are exploiting misconfigured multifactor authentication MFA protocols and vulnerabilities in the Windows Print Spooler for cyberattacks.Read details  ,technews
+German governments cybersecurity agency warns users against the use of the Russian antivirus software Kaspersky.Read   responded that the advice was given on political grounds.,technews
+Multiple highseverity vulnerabilities uncovered in widely used opensource ClickHouse OLAP Database Management System DBMS for BigData.Read details  ,technews
+Facebooks parent company Meta has been fined 17 million nearly 18.6 million for a series of data breaches that violated European Unions GDPR laws in the region.Read details  ,technews
+Researchers at Intel471 spotted nearly 34 ransomware variants in hundreds of cyberattacks that occurred in the fourth quarter of 2021.Read  ,technews
+Yet another destructive data wiping malware dubbed CaddyWiper has been spotted attacking networks in Ukraine amid the ongoing Russian military invasion.Read details  ,technews
+QNAP warns of a recently disclosed Linux vulnerability affecting a widerange of its NAS devices that could be abused to elevate privileges and gain control of affected systems.Read  ,technews
+A Russianspeaking ransomware outfit is targeting entities in Europe and Central America by repurposing custom hacking tools developed by other APT groups.Read details  ,technews
+Researchers find new evidence revealing the overlapping source code and techniques between the operators of Shamoon and Kwampirs indicating that they are the same group or really close collaborators.Read details  ,technews
+A newly discovered vulnerability CVE202225636 in the Netfilter firewall module of Linux kernel could be exploited to gain root privileges on vulnerable systems escape containers or cause a kernel panic.Details  ,technews
+Multiple vulnerabilities including command injection have been discovered in popular Software Package Managerssuch as Composer Bundler Poetry Yarn pnpm Pip and Pipenv some of which have not yet fixed the reported issues.Read  ,technews
+Russian government has established a new SSLTLS Certificate Authority and is rapidly pushing it into Russia to deal with Western sanctions.Read details   its not clear whether Chrome Edge Firefox  Safari browsers will accept it.,technews
+A new browser extension allows users to automatically check whether or not the WhatsApp Web code on their browser has been altered or tampered with providing an extra layer of security for millions of desktop users.Details  ,technews
+Cisco Talos researchers have uncovered details of new malware attacks on Turkey and other Asian countries carried out by Iranlinked hackers operating under the name MuddyWater.Read details  ,technews
+New Branch History Injection BHI technique to exploit the Spectre v2 vulnerability allows attackers to bypass existing hardware mitigations in Intel AMD and Arm processors and leak sensitive information from host memory.Details  ,technews
+22yearold Ukrainian hacker allegedly linked to SodinokibiREvil ransomware gang has been extradited to the United States and put on trial for his role in carrying out cyberattacks on several companies including Kaseya.Read details  ,technews
+Emotet botnet malware has infected over 100000 computers since its latest resurgence in November 2021 and the number is steadily increasing.Read details  ,technews
+Hackers abusing Mitel devices to launch highimpact DDoS attacks with a recordbreaking amplification ratio of 4294967296 to 1.Read details  ,technews
+Experts have discovered 3 new critical flaws in APC Smart UPS that could let attackers remotely hack devices or manipulate  power of millions of enterprise devices to physically  damage them or other  assets connected to them.Details  ,technews
+Patch Tuesday March 2022 In addition to Microsoft Adobe and Google the following major software vendors have also released patches to fix various security vulnerabilitiesCiscoCitrixHPIntelJuniper NetworksLinux distributions Mozilla Firefox and ESRSAPSchneider Electric andSiemens ,technews
+Cybersecurity researchers at Mandiant have revealed that Chinabacked APT41 hacker group compromised at least 6 state government networks in the United States between May 2021 and February 2022.Read details  ,technews
+Researchers have uncovered 3 critical vulnerabilities in the Pascom Cloud Phone System CPS that could be combined to achieve full preauthenticated remote code execution of affected systems.Details  ,technews
+Researchers have discovered 16 new highseverity vulnerabilities in UEFI firmware affecting millions of HP devices including laptops desktops PoS systems and edge computing nodes.Read details  ,technews
+Google warns that Russian and Belarusian hackers are targeting Ukraine and European allies through phishing attacks.Read details  ,technews
+Google is officially buying cybersecurity company Mandiant in an allcash deal approximately valued at 5.4 billion.Read  ,technews
+Samsung confirms a security breach that led to the exposure of internal company data including the source code related to its Galaxy smartphones.Read details  ,technews
+A series of newly discovered security vulnerabilities  dubbed Access7  in PTCs Axeda software affects hundreds of thousands of ATMs vending machines SCADA systems medical devices and IoT devices.Read details  ,technews
+Researchers warn of a new vulnerability CVE20220847 in the Linux kernel dubbed Dirty Pipe which could allow an attacker to overwrite arbitrary data and take complete control of a system.Details  ,technews
+Researchers have disclosed details of a nowpatched Microsoft Azure automation vulnerability  dubbed AutoWarp  that could have allowed attackers unauthorized access to other Azure customer accounts.Details  ,technews
+Newly disclosed vulnerabilities in the operating system for TerraMaster NAS devices can be chained to achieve unauthorized RCE with highest privileges.  found by Ethiopian cybersecurity firm OctagonNetworks have been patched in v4.2.30 or higher.,technews
+Ukrainian Computer Emergency Response Team CERTUA warns of new phishing attacks against its citizens using compromised email accounts from Indian entities.Read  ,technews
+Mozilla has warned hundreds of millions of Firefox users about newly discovered 0day bugs CVE202226485 CVE202226486 that are being exploited in the wild.  to Firefox 97.0.2 ESR 91.6.1 Android v97.3.0 Focus 97.3.0  Thunderbird 91.6.2.,technews
+Researchers warn of a new highrisk vulnerability CVE20220492 affecting the Linux kernels cgroups feature that could potentially be abused to escape a container to execute arbitrary commands on the host.Read details  ,technews
+U.S. cybersecurity agency CISA has added a new batch of 95 actively exploited flaws to its Known Exploited Vulnerabilities Catalog.Read  ,technews
+Imperva has reported that the website of one of its customers was recently the target of a ransomdriven DDoS attack that reached a peak of 2.5 million requests per second RPS.Read details  ,technews
+Both sides in the RussiaUkraine war are heavily leveraging Telegram messenger to coordinate hacking activities leak data and spread disinformation.Read  ,technews
+A new vulnerability CVE20214191 affects thousands of GitLab instances that could allow a remote unauthenticated attacker to access userrelated information.  versions 14.8.2 14.7.4 14.6.5 issued for selfmanaged servers.,technews
+Russian government has published a list of 17576 IP addresses and 166 domains allegedly used in a series of DDoS attacks on the countrys domestic infrastructure.Read details  ,technews
+Researchers demonstrate what they say is the first sidechannel attack on homomorphic encryption which could be exploited to leak data during the encryption process.Read details  ,technews
+Cisco releases patches to address a new set of critical vulnerabilities affecting Expressway Series and TelePresence Video Communication Server that could allow attackers to gain elevated privileges and execute arbitrary code.Read  ,technews
+Hackers who penetrated the network of the American chip manufacturer NVIDIA have leaked DLSS source code on the Internet.Read  ,technews
+A group of nationstate is attempting to hack European government agencies to obtain intelligence on refugees fleeing Ukraine and the supply movement in the region.Read details  ,technews
+ Hackers begin weaponizing a new DDoS amplification technique  called TCP Middlebox Reflection  against multiple targets for the first time in the wild.Read details  ,technews
+Experts find 5 new vulnerabilities in the opensource multimedia communications library PJSIP that could be abused by an attacker to execute arbitrary code or trigger DoS in applications that use the protocol stack.Read  ,technews
+Critical vulnerabilities have been uncovered in the VoIPmonitor software that could allow unauthenticated attackers to escalate their privileges to the administrator level and execute arbitrary commands.Read details  ,technews
+TeaBot Android banking trojan has been observed bypassing Google Play Store protections to attack users of more than 400 banking and finance apps from Russia China and the United States.Details  ,technews
+A new data wiper malware  dubbed IsaacWiper  has been observed targeting Ukrainian governmental systems a day after destructive cyber attacks struck multiple entities in the country.Read details  ,technews
+Trickbot malware gang upgrades its AnchorDNS backdoor to AnchorMail.  shutdown of the TrickBot infrastructure the malware operators continue to refine their arsenal to carry out attacks that culminated in the deployment of Conti ransomware.,technews
+In response to the Conti ransomware gangs decision to side with Russia in the invasion of Ukraine a disgruntled Ukrainian member of the cybercrime group has posted thousands of internal chats online.Read details  ,technews
+Microsoft discovers FoxBlade malware hit Ukraines digital infrastructure before Russia launched its first missile strike last week.Read  ,technews
+Chinalinked Daxin malware targeted multiple governments organizations and critical infrastructure in widespread cyberespionage attacks.Read details  ,technews
+CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog including a recently disclosed flaw in Zimbra webmail software.Read details  ,technews
+Researchers detail severe flaws in hardwarebacked encryption on nearly 100 million Androidbased Samsung Galaxy S8 S9 S10 S20 and S21 smartphones that could be exploited to extract secret cryptographic keys.Details  ,technews
+CISA warns of multiple highlyseverity vulnerabilities affecting Schneider Electrics Easergy mediumvoltage protection relays and General Electrics Proficy CIMPLICITY SCADA software.Read  ,technews
+Researchers have managed to create a clone of Apple Airtag that bypasses the antistalking protection technology built into the Find My Bluetoothbased tracking protocol.Details  ,technews
+Mandiant researchers have identified two new malware  GRAMDOOR and STARWHALE  used by Iranian cyberespionage hackers one of them uses the Telegram API to remotely control its victims devices.Read details  ,technews
+WARNING A new malware is spreading via some game apps on Microsoft Store and hijacks victims social media accounts for malicious promotions and click fraud attacks.Read details   ,technews
+Governmentsponsored hackers are not the only ones targeting the Ukraine with DDoS malware and phishing attacks but cybercriminals have also gotten involved and begun to take sides in the RussiaUkraine War. ,technews
+Researchers discover a new stealth malware dubbed SockDetour that operates filelessly and socketlessly on compromised systems and serves as a backup backdoor in case the primary one is removed.Read details  ,technews
+Russian government warns domestic critical infrastructure operators of potential cyberattacks as the countrys invasion of Ukraine enters its second day.Read  ,technews
+Notorious Trickbot malware group has officially shut down its botnet infrastructure after reports of its imminent retirement amid a lull in its activity for almost two months.Read details  ,technews
+A set of 4 new vulnerabilities have been discovered in Ciscos NXOS network operating system for switches that attackers can exploit to take control of affected systems.  organizations are advised to apply latest patches ASAP.,technews
+A set of 4 new vulnerabilities have been discovered in Ciscos NXOS network operating system for switches that attackers can exploit to take control of affected systems.  organizations are advised to apply latest patches ASAP.,technews
+Researchers share latest findings on TrickBot malware campaign suggesting that the group is probably switching its operations to move to a new malware.Read details  ,technews
+Deadbolt ransomware malware is now targeting ASUSTORs networkattached storage NAS devices.Cybercriminals claim to be exploiting a zeroday vulnerability that the company is not aware of.Read details  ,technews
+U.S. cybersecurity agency CISA is warning companies about two actively exploited vulnerabilities affecting the widely used opensource Zabbix enterprise monitoring platform. CVE202223131 CVE202223134Details  ,technews
+ U.S. and U.K. cybersecurity agencies have issued an urgent warning about a new Russian botnet malware  dubbed Cyclops Blink  which Sandworm hackers built from hacked firewall and router devices.Details  ,technews
+Researchers discover similarities between the Dridex malware and a littleknown ransomware strain called Entropy suggesting that the operators continue their extortion operations under a different name.Read details  ,technews
+ Chinese researchers reveal details of a toptier backdoor dubbed Bvp47 used by the Equation Group an APT group linked to the U.S. National Security Agencys cyberwarfare intelligence unit.Read details  ,technews
+WARNING9yearold UNPATCHED vulnerability has been uncovered in Horde webmail software that can be exploited to gain full access to email accounts simply by previewing attachments.Details  ,technews
+Researchers uncover 25 malicious JavaScript libraries that attackers distributed via the NPM package repository with the aim of stealing Discord tokens and environment variables from compromised systems.Read details  ,technews
+Hackers took advantage of smart contract upgrade process on the OpenSea NFT marketplace to conduct a phishing attack against its users resulting in the theft of approximately 1.7 million worth of virtual assets.Read  ,technews
+Chinese APT10 statesponsored hackers carried out a sophisticated organized supplychain attack on Taiwans financial and securities trading sector. Read details  ,technews
+Hackers are exploiting unpatched vulnerabilities in Internetfaced Microsoft SQL servers that to backdoor them using the Cobalt Strike hacking tool.Read details  ,technews
+Researchers discover a new Android banking malware  dubbed Xenomorph  that spreads via apps on the Google Play Store and is designed to target customers of dozens of European banks.Read  ,technews
+Researchers uncover details of a recent cyberattack that targeted Iranian State Broadcaster IRIB with an unidentified destructive wiper malware. ,technews
+Hackers are using infected Android devices to register mass disposable accounts that can be abused by cybercriminals to create phoneverified accounts for fraud and other criminal activities.Details  ,technews
+Researchers retrieve the master key to unlock files locked by the Hive ransomware by exploiting a vulnerability in its encryption algorithm.Read details  ,technews
+The U.S. cybersecurity agency CISA publishes a repository of free tools and services to help organizations detect mitigate and respond effectively to malicious attacks.Details  ,technews
+WordPress pushes patch for a new highseverity vulnerability in UpdraftPlus a popular backup plugin with over 3 million active installations which can be weaponized to download affected sites private data.Details  ,technews
+Microsoft warns of emerging Ice Phishing threats targeting Web3 blockchain DeFi smart contracts and other decentralized technologies.Read details  ,technews
+Researchers have found that several computers in SouthKorea are being attacked by a botnet called PseudoManuscrypt using the same spreading tactics as another malware called CryptBot.Read details  ,technews
+A set of new Linux vulnerabilities have been discovered in Canonicals Snap for software packaging and deployment system the most critical of which can be exploited to gain root privileges on targeted systems.Read details  ,technews
+A potentially destructive actor aligned with the Iranian government is actively exploiting the known Log4j vulnerability to infect unpatched VMware Horizon servers with ransomware.Read details  ,technews
+Cisco has released security updates to patch 3 vulnerabilities affecting its products including one highseverity flaw that attackers can exploit by sending an email to crash Cisco Email Security Appliances.Read details  ,technews
+Adobe releases patches for another critical vulnerability CVE202224087 discovered in the Adobe Commerce and Magento eCommerce platforms that could be exploited to execute arbitrary code.Read details  ,technews
+Google announced plans to bring its Privacy Sandbox initiative to Android to expand its privacyfocused but also less disruptive advertising technology beyond the desktop web.Read details  ,technews
+Researchers release a new opensource tool called Underactor that can uncover pixelated text from redacted documents and reveal sensitive data.Read details  ,technews
+Researchers have unpacked a new Golangbased botnet called Kraken which is under active development and features an array of backdoor capabilities.Read details  ,technews
+The politically motivated Moses Staff hacker group has been observed using a custom multicomponent toolset with the goal of carrying out cyberespionage against Israeli organizations.Read  ,technews
+U.S. government agencies FBI NSA CISA release joint advisory accusing statesponsored Russian hackers of regularly attacking several U.S. cleared defense contractors to steal proprietary documents and other confidential information. ,technews
+Trickbot malware has targeted the customers of 60 highprofile companies since 2020 including cryptocurrency platforms.Details  ,technews
+European Unions data protection authority called for a ban on the development and use of Pegasuslike commercial spyware in the region.Read details  ,technews
+A new highseverity vulnerability CVE202144521 has been reported in the popular distributed NoSQL database software Apache Cassandra which if left unfixed could lead to RCE attacks on affected installations.Details  ,technews
+Facebook has agreed to pay 90 million to settle a decadeold privacy breach lawsuit that accused the company of using web cookies to track users Internet activity even after they logged off the platform.Details  ,technews
+Researchers detail the inner workings of ShadowPad a modular backdoor that has been adopted by a growing number of Chinese hacker groups in recent years while also linking it to the countrys civilian and military intelligence agencies.Read  ,technews
+A new variant of the MyloBot malware spreading malicious payloads used to send sextortion emails demanding 2732 in digital currency from victims.Read  ,technews
+Google has released an update for its Chrome web browser for Windows Mac and Linux users that patches multiple new security vulnerabilities one of which is being actively exploited in the wild.Read details  ,technews
+Multiple critical vulnerabilities have been discovered in Moxa MXview webbased industrial network management software some of which could be exploited by an unauthenticated attacker to execute remote code on unpatched servers.Read  ,technews
+Cybercriminals have been found exploiting a new critical zeroday vulnerability CVE202224086  CVSS 9.8 in the Adobe Commerce and Magento ecommerce platforms  Patch your online shopping sites now.Read details  ,technews
+Researchers uncover hacking attacks planting fabricated digital evidence on devices of human rights activists human rights defenders academics and lawyers in India.Read  ,technews
+French data protection authority has ruled that the use of Google Analytics violates the EUs General Data Protection Regulation GDPR.Details   week a German court found that embedding Google Fonts also violates GDPR.,technews
+Apple releases software updates to patch a new actively exploited 0day vulnerability CVE202222620 in WebKit targeting iPhone iPad and Mac users.Read details  ,technews
+Researchers uncover a new campaign of FritzFrog a Golangbased peertopeer botnet attacking healthcare education and government sectors and has already infected over 1500 hosts within a month.Read  ,technews
+CISA FBI NSA  the cybersecurity agencies of Australia and the United Kingdom have issued a joint statement on the sharp increase in sophisticated RANSOMWARE attacks against critical infrastructure around the world.Read  ,technews
+Russia cracks down on 4 dark web marketplaces  Ferum Shop SkyFraud Trumps Dumps and UAS  specialize in the theft and sale of stolen credit cards. ,technews
+WordPress plugin PHP Everywhere contains multiple critical RCE vulnerabilities affecting more than 30000 websites worldwide.Read details  ,technews
+United States seizes 3.6 BILLION in cryptocurrency stolen during the 2016 Bitfinex hack and arrests a couple for conspiring to launder 4.5 billion worth of cryptocurrency.Read  ,technews
+A new Marlin backdoor was used by Iranian hackers in the Out to Sea cyberespionage campaigns. ,technews
+ESETs latest threat report shows Russian cyber espionage hacking groups are using COVID 19 lures to attack European diplomats.Read  ,technews
+February 2022 Patch TuesdayMicrosoft Adobe Android Mozilla Intel SAP Citrix and other major software companies release security updates to patch dozens of security vulnerabilities in their products.Details   ,technews
+Hackers allied with Palestine are now using a new implant called NimbleMamba to attack Middle East governments foreign policy think tanks and a stateaffiliated airline.Read details  ,technews
+Researchers warn that PrivateLoader payperinstall service is used by a number of malware families such as SmokeLoader RedLine Stealer Vidar Raccoon and GCleaner to expand their victim list.Read details  ,technews
+Hackers behind the Roaming Mantis malware for Android are now using smishing techniques to target European users.Read  ,technews
+FluBot and Medusa two separate Android banking trojans join forces to use the same distribution network to launch simultaneous attacks.Read details  ,technews
+Microsoft finally disables Internetbased VBA macros by default in Office applications to prevent phishing and malware attacks.Read details  ,technews
+Microsoft has temporarily disabled the MSIX msappinstaller protocol handler in Windows following evidence that a vulnerability in the component was exploited to deliver malware such as Emotet TrickBot and Bazaloader.Details  ,technews
+Earth Karkaddan hacker group has been targeting the Indian government and military with a new Android malware called CapraRAT to steal information.Details  ,technews
+Systems hosting content pertaining to the National Games of China were hacked just a few days before the competition began.Read details  ,technews
+Chinese statebacked Antlion APT hacker group is targeting financial institutions in Taiwan with a new stealth malware backdoor that allowed it to stay under the radar for at least 18 months.Read details  ,technews
+CISA the U.S. cybersecurity agency has ordered all federal agencies to immediately and mandatorily secure their systems against an actively exploited vulnerability CVE202221882 in Microsoft Windows operating systems.Details  ,technews
+A new vulnerability CVE202224348 has been discovered in Argo CD which is used by thousands of organizations globally could let hackers steal sensitive information such as secrets passwords and API keys from Kubernetes apps.Details  ,technews
+Microsoft shared more details about the tactics and techniques used by the Russian hacking group Gamaredon in cyberespionage attacks on various facilities in Ukraine over the past six months.Details  ,technews
+After NSO another Israeli company QuaDream has been caught weaponizing iPhone bugs to deploy a spyware called Reign similar to Pegasus on targeted devices.Read details  ,technews
+The United States has indicted 6 Indiabased call centers and their directors for allegedly being involved in placing tens of millions of fraudulent calls that defrauded thousands of American consumers.Read  ,technews
+CISA warns of multiple vulnerabilities in Airspan Networks Mimosa equipment that could be abused to execute remote code trigger a DoS attack and obtain sensitive information.Read details  ,technews
+Hackers are actively trying to exploit a new zeroday vulnerability in Zimbras email platform to steal emails and spy on targets in the media and government.Read details  ,technews
+Cisco has released security patches for several critical vulnerabilities affecting its Small Business RV series routers that could be exploited to elevate privileges and execute arbitrary code on affected systems.Read details  ,technews
+A new SEO Poisoning campaign is spreading trojanized versions of popular software utilities to infect victims computers with BATLOADER and Atera Agent malware.Read details  ,technews
+Microsoft warns users about a new variant of UpdateAgent malware that now infects Mac computers with adware.Read  ,technews
+A new wave of cyberattacks is targeting Palestinian activists and entities with politicallythemed phishing emails and decoy documents.Details  ,technews
+As many as 23 new highseverity vulnerabilities have been uncovered in various implementations of UEFI firmware from numerous vendors including Bull Atos Fujitsu HP Juniper Networks Lenovo and others.Details  ,technews
+Iranian APT hackers Moses Staff deploying a new TrojanStrifeWaterin their ransomware operations which collects system files executes commands captures screenshots creates persistence and downloads updates and addon modules.Details  ,technews
+A critical arbitrary code execution vulnerability has been reported in the WordPress plugin for Elementor which is used by over a million websites.Read details  ,technews
+Hackers behind Solarmarker information stealer and backdoor are now using novel registry tricks to establish longterm persistence on compromised systems.Read details  ,technews
+Iranian APT hackers have updated their malware arsenal with a new PowerShellbased implantdubbed PowerLess Backdoorthat download additional payloads such as a keylogger and a data stealer.Read  ,technews
+Ukraine continues to face cyberespionage attacks from Russian hackers. ,technews
+Researchers have uncovered details of a new malware campaign targeting private companies and government entities in Turkey with malicious PDFs XLS files and Windows executables.Read details  ,technews
+ A newly discovered vulnerability CVE202144142  CVSS 9.9 affecting all versions of Samba could allow remote attackers to execute arbitrary code with root privileges on affected installations.Details  ,technews
+Researchers have demonstrated a new type of fingerprinting technique  DrawnApart  that exploits a machines graphics processing unit GPU as a means to track users across the Internet.Read details  ,technews
+German court rules that websites embedding fonts from Google servers violate GDPR and must pay 100 in damages for passing a users personal data  i.e. IP address  to Google without consent.Read details  ,technews
+Researchers have found a way to use natural silk fibers from domesticated silkworms as a Physical Unclonable Function PUF to generate secure and unique identifiers for strong authentication e.g. cryptographic keys.Read details  ,technews
+Apple pays a 100500 bug bounty to a hacker who found a way to remotely hack the MacBooks webcam.Read details  ,technews
+DeepDotWeb news site operator has been sentenced to 8 years in prison for money laundering and advertising illegal darknet marketplaces.Details  ,technews
+Microsoft warns of a largescale multistage phishing campaign that uses stolen credentials to register rouge devices on a victims network to further propagate spam emails and increase the infection pool.Read details  ,technews
+North Korean hackers from the Lazarus group are using Windows Update Service to infect computers with malware and GitHub as a commandandcontrol server.Read details  ,technews
+North Korean hackers are back with a stealthier version of their KONNI RAT malware.Read details  ,technews
+Microsoft fended off a recordbreaking DDoS attack that hit Azure customers at a peak of 3.47 terabits per second and two others that topped 2.4 terabits per second.Read details  ,technews
+QNAP warns of DeadBolt ransomware targeting Internetfacing networkattached storage NAS appliances and routers.Read  ,technews
+Hackers compromise hundreds of WordPress websites to distribute Chaes banking trojan that hijacks victims Chrome browsers with malicious extensions. ,technews
+Researchers warn of widespread malware campaigns spreading FluBot and TeaBot trojans to Android devices.Read  ,technews
+Hackers have been spotted using a new evasion technique for spreading the AsyncRAT Trojan as part of a sophisticated malware campaign. ,technews
+Apple releases iOS 15.3 and macOS Monterey 12.2 with a fix for Safaris privacydefeating bug as well as a patch for an actively exploited zeroday vulnerability.Read details  ,technews
+Researchers link an initial access broker tracked as Prophet Spider to recent Log4Shell attacks on unpatched VMware Horizon servers.Read details  ,technews
+Google abandons FLoC its controversial plan to replace 3rdparty cookies in favor of a new Privacy Sandbox proposal called Topics API that categorizes users browsing habits into about 350 topics for online ads.Read details  ,technews
+A 12yearold vulnerability CVE20214034 has been discovered in the Polkit utility that could allow unprivileged attackers to gain root access to targeted Linux systems.Details  ,technews
+Researchers uncover a new espionage campaign in which attackers are exploiting a critical MSHTML vulnerability to target highlevel government officials and defense industry figures in West Asia.Read details  ,technews
+Researchers discover that TrickBot malware now uses new techniques to evade web injection attacks.Read  ,technews
+Android banking malware BRATA has been updated with new features that grants it the ability to track device locations and even perform a factory reset in an apparent bid to cover up fraudulent wire transfers.Read  ,technews
+A previously undocumented malware packer named DTPacker has been observed distributing multiple RATs and information stealers such as Agent Tesla Ave Maria AsyncRAT and FormBook.Read details  ,technews
+Hackers are creating fraudulent crypto tokens to trick victims into buying the tokens and then abusing misconfigurations in smart contracts to steal funds as part of the rug pull scam.Read details  ,technews
+A new Emotet malware campaign has been observed using unconventional IP address formats for the first time in a bid to sidestep detection by security solutions.Read details  ,technews
+A new highseverity vulnerability CVE202221658 in Rust programming could allow an attacker to trick a privileged program into deleting files and directories that he or she could not otherwise access or delete.Read  ,technews
+Latest analysis of the WhisperGate wiper malware which attacked dozens of Ukrainian agencies earlier this month has revealed strategic similarities with the NotPetya attack that hit the country in 2017.Read  ,technews
+Cyberespionage group Molerats uses legitimate cloud services like Google Drive and Dropbox to host malware payloads run CC and exfiltrate data from targets in the Middle East.Read  ,technews
+Yet another supplychain attack...Hackers implanted a secret backdoor into nearly 40 themes and 53 plugins for WordPress websites developed by AccessPress.Details  ,technews
+Researchers disclose two critical vulnerabilities in Control Web Panelpreviously known as CentOS Webthat could be exploited as part of an exploit chain to achieve preauthenticated RCE on affected Linux servers. ,technews
+Chinese APT41 hackers spotted using a previously undocumented MoonBounce firmware implant to maintain stealthy persistence during targeted cyber espionage campaigns.Read details  ,technews
+U.S. has imposed sanctions on 4 current and former Ukrainian government officials for their involvement in a Russiandirected campaign to destabilize Ukraine.Read details  ,technews
+Cisco has released a security patch for a critical vulnerability CVE202220649 affecting RCM for Cisco StarOS that could be weaponized by an unauthenticated remote attacker to execute arbitrary code  take over vulnerable machines.Details  ,technews
+An INTERPOLled operation has led to the arrest of 11 members of a Nigerian cybercrime gang linked to Business Email Compromise BEC attacks targeting more than 50000 victims in recent years.Read  ,technews
+Researchers reveal details about recent cyberattacks carried out by the Donot Hacking Team against government and military entities in South Asia. ,technews
+Researchers warn of a new malware specializes in gaining access to cryptocurrency wallets Exodus Ethereum Bitcoin Litecoin wallets by exfiltrating content passwords stored in the browser and passphrases captured from the clipboard. ,technews
+Microsoft has detected hackers exploiting a new zeroday vulnerability CVE202135247 in SolarWinds ServU software related to Log4j attacks.Read   version 15.3 has been released to patch the issue.,technews
+Russian hackers are heavily leveraging malicious Traffic Direction System TSD to spread several malware families including Campo Loader Hancitor IcedID QBot Buer Loader and SocGholish.Read details  ,technews
+Financially motivated hacking group FIN8 has resurfaced with a neverbeforeseen ransomware called White Rabbit which has been used in recent attacks.Read details  ,technews
+Ukraine says recent coordinated cyberattacks on select government systems are part of a larger wave of malicious activity aimed at sabotaging the countrys critical infrastructure.Read  ,technews
+A malware distribution campaign is spreading DDoS IRC bot disguised as adult games through Korean WebHard platforms.Read details  ,technews
+Cybersecurity researchers have disclosed details of a bug in Boxs multifactor authentication MFA mechanism that could be abused to completely sidestep SMSbased login verification.Read  ,technews
+Europol shuts down VPNLab a secure VPN service that was used by a number of cybercriminals to distribute ransomware and facilitate other online crimes.Details  ,technews
+Hacker group Earth Lusca has been observed attacking highvalue targets in government and the private sector worldwide as part of an espionage campaign and an attempt to gain financial gain.Read  ,technews
+Google Chrome is limiting websites from directly accessing endpoints on private networks as part of upcoming major security updates to prevent browserbased intrusions.Details  ,technews
+Zoho releases patch for a new authentication bypass vulnerability CVE202144757 in ManageEngine Desktop Central and Desktop Central MSP that a remote adversary could exploit to perform unauthorized actions in affected servers.Read  ,technews
+UniCC the largest dark web marketplace for stolen credit and debit cards is shutting down after earning 358 million in sales.Read  ,technews
+A new unpatched flaw in Apple Safari 15s implementation of the IndexedDB API could be exploited by online trackers to fingerprint users and track their online activities across websites.Details  ,technews
+A new destructive malwaredisguised as ransomwareis now targeting Ukrainian government nonprofit organizations and information technology companies amid brewing geopolitical tensions between the country and Russia.Details  ,technews
+ Russian authorities have arrested members of the REvil ransomware gang responsible for several highprofile cyberattacks  and seized 426 million rubles in cash 600000  500000 in cryptocurrency computers and 20 luxury cars.Details  ,technews
+A massive coordinated cyberattack has taken down several Ukrainian government websites on Friday morningamid heightened tensions with Russia.Read  ,technews
+North Korean hackers have stolen millions of dollars worth of digital assets from small  mediumsized companies worldwide working with cryptocurrencies and smart contracts DeFi Blockchain and FinTech.Details  ,technews
+A British hacker has been sentenced to more than two years in prison for illegally hacking into the phones and computers of a number of victims including women and children to spy on them and amass a collection of indecent images. ,technews
+Ukrainian police have arrested 5 peopleincluding a married couplelinked to a gang that orchestrated ransomware attacks on more than 50 companies in Europe and the United States.Read details  ,technews
+Cisco releases patch for a new critical vulnerability CVE202220658  CVSS 9.6 affecting the Unified CCMP and Unified CCDM that could be weaponized to create rogue Administrator accounts by sending a crafted HTTP request.Details  ,technews
+GootLoader malware campaign now targets employees of law and accounting firms indicating the adversary is expanding its focus to other highvalue targets.Details  ,technews
+Researchers have decoded the mechanism by which the versatile Qakbot banking trojan handles the insertion of encrypted configuration data into the Windows Registry.Read  ,technews
+Iranian nationstate hackers exploiting the Log4j vulnerability to deploy a new PowerShellbased frameworkdubbed CharmPowerdesigned to establish persistence gather information and execute commands.Read details   ,technews
+Apple releases the latest iOS and iPadOS 15.2.1 updates to patch a vulnerability found in HomeKit that allows DoS attacks.Details  ,technews
+A new espionage malware called SysJoker has been discovered and is targeting users on Windows macOS and Linux users.Read details  ,technews
+U.S. cybersecurity and intelligence agencies published a joint advisory on how to detect respond to and mitigate cyberattacks on critical infrastructure orchestrated by Russian statebacked actors.Details  ,technews
+First Microsoft Patch Tuesday update of 2022 fixes 96 new vulnerabilities including a critical wormable Windows RCE vulnerability CVE202221907 in the HTTP Protocol Stack.Read details  ,technews
+A new highseverity KCodes NetUSB vulnerability affects millions of routers from various manufacturers.Details  ,technews
+Moxie Marlinspike founder of the popular encrypted instant messaging service Signal has announced that he is stepping down as CEO and WhatsApp cofounder Brian Acton will serve as interim CEO.Read details  ,technews
+Microsoft has revealed details of a new macOS powerdir vulnerability CVE202130970 that could allow attackers to gain access to user data.Read details  ,technews
+Europol ordered to delete a vast trove of personal data the agency obtained on individuals with no proven ties to criminal activity.Read details  ,technews
+Researchers have found links between an emerging DDoS botnet named Abcbot and the Xanthe cryptocurrencymining malware attacks.Read  ,technews
+BADNEWS Patchwork APT group fell victim to its own spying malware revealing the tactics procedures and techniques used by an Indian hacker group.Read details  ,technews
+Facebook has launched a new Privacy Center to educate users about five common privacy topics  sharing security data collection data use and ads.Read  ,technews
+U.K. National Health Service NHS has warned that attackers are actively exploiting Log4Shell vulnerabilities in unpatched VMware Horizon servers to drop malicious web shells and establish persistence on affected networks for followon attacks.Detail  ,technews
+Researchers have found a new Log4Shelllike critical RCE vulnerability CVE202142392 in the H2 Database Console an inmemory opensource and widely used embedded database system.Read details  ,technews
+French data protection watchdog has fined Facebook and Google 150 million and 60 million euros respectively for violating EU privacy laws by not giving their users an easy option to optout of cookie tracking technology.Read details  ,technews
+North Korean cyberespionage group Konni has been linked to a series of targeted attacks on the Ministry of Foreign Affairs of the Russian Federation using New Years Eve decoys to compromise Windows systems with malware.Read details  ,technews
+Malware attackers could use this new NoReboot trick to secretly spy on users by faking an iPhone shutdown making it impossible to physically determine whether or not an iPhone is powered off.Read details  ,technews
+Cybersecurity researchers have uncovered an organized financialtheft operation in which a discrete hacking group  codenamed Elephant Beetle  penetrates transaction processing systems and steals money.Read details  ,technews
+A new Zloader banking trojan campaign is now exploiting the Microsoft Signature Verification system to evade detection and steal cookies passwords and other sensitive data.Read details    already has over 2000 victims in 111 countries.,technews
+In a recent supplychain cyberattack over 100 Real Estate websites were targeted with a webskimming malware that exploited a cloud video hosting service.Read details  ,technews
+Researchers have developed a scalable technique SAILFISH for detecting stateinconsistency flaws in smart contracts which has led to the discovery of 47 zeroday vulnerabilities in the Ethereum blockchain.Details  ,technews
+Researchers reported a bug in Apples HomeKit software framework  dubbed doorLock  that affects the iOS mobile operating system and can cause devices to crash or reboot.Read details   ,technews
+Beware A new malicious campaign has been discovered that infects victims computers with Purple Fox malware using a trojanized installer of the Telegram messaging app.Read details  ,technews
+Researchers demonstrate that electromagnetic signals emanating from IoT devices can be used as a sidechannel to detect various forms of malware targeting embedded systems even when obfuscation is used to prevent analysis.Read details  ,technews
+Microsoft releases a fix for the Exchange Y2K22 bug that caused emails to get stuck in queues when a date validation error occurred around the turn of the year.Read  ,technews
+Researchers warn of a new rootkit malware  dubbed iLOBleed  thats attacking HP Enterprise servers inthewild and aims to delete data from them.Read details  ,technews
+AQUATIC PANDA APT hackers with links to China are targeting academic institutions with the Log4Shell exploit.Read details  ,technews
+Ongoing Autom cryptomining malware campaign has upgraded its arsenal while adding new defense evasion tactics that enable the threat actors to conceal the intrusions and fly under the radar.Read  ,technews
+Cybersecurity researchers reveal details about the DoubleFeature logging module in DanderSpritz a postexploitation framework used by Equation Group hackers.Read  ,technews
+New vulnerabilities discovered in a network component of Garrett metal detectors that could allow remote attackers to bypass authentication manipulate metal detector configuration and even execute arbitrary code on the devices.Read details  ,technews
+Researchers have discovered a new Android banking malware that targets Brazils Itaú Unibanco with the help of lookalike Google Play Store pages.  ,technews
+Researchers at Reasonsecurity warn that pirated copies of SpiderManNoWayHome movie which are distributed via the torrent network infect users computers with cryptomining malware.Read details  ,technews
+Researcher details Apple macOS vulnerability CVE202130853 that could allow malware apps to bypass Gatekeeper protection.Read details  ,technews
+New ransomware variants keep popping up despite law enforcement actions.Researchers are now warning about Avos Locker that uses new tactics including disabling endpoint security products on targeted systems and booting it into Safe Mode. ,technews
+Researchers disclose details of an evasive malware campaign that uses codesigning certificates to avoid detection and deploy Cobalt Strike and BitRAT payloads on compromised systems.Read  ,technews
+Cybersecurity agencies from the United States Australia Canada New Zealand and the United Kingdom have issued a joint advisory following widespread exploitation of multiple Log4j vulnerabilities.Read  ,technews
+A newly discovered 4yearold flaw  dubbed NotLegit  in Microsofts Azure app service has exposed hundreds of source code repositories associated with PHP Node Python Ruby and Java applications.Read details  ,technews
+Researchers reveal details of 4 new vulnerabilities affecting Microsoft Teams conferencing software3 of which are UNPATCHED and the company reportedly says it will not fix them including SSRF URL preview spoofing and DoS issues.Details  ,technews
+ China has suspended its partnership with Alibaba Cloud Services  whose researcher discovered the critical Log4j vulnerability  because the company did not first report this flaw to the government as required by the countrys new law.Read  ,technews
+Watch OutHackers are leveraging a new exploit in malware attacks to bypass security patches for a critical RCE vulnerability affecting Microsoft MSHTML a web page rendering engine in Office documents.Read details  ,technews
+Microsoft warns that two recently reported vulnerabilities  tracked as CVE202142278 and CVE202142287  in Active Directory could be exploited by attackers to take over unpatched Windows domain controllers.Details  ,technews
+Cyber espionage hacking group Tropic Trooper equipped with new tools and techniques is targeting transportation companies and government agencies related to transportation.Read  ,technews
+Meta sues hackers behind massive phishing attacks against Facebook WhatsApp and Instagram users who are operating more than 39000 fake webpages to steal their login credentials.Read details  ,technews
+Researchers discover new vulnerabilities in the handover procedure of 2G 3G 4G and 5G mobile networks that could allow attackers to force targeted mobile phones to connect to a fake base station and eavesdrop on communications.Read details  ,technews
+Researchers have discovered a new application in the Google Play Store that contains Joker malware and has been downloaded by over 500000 Android users. ,technews
+Researchers discover an entirely new ATTACK VECTOR that could allow hackers to exploit critical Log4Shell vulnerability on servers locally by using a JavaScript WebSocket connection.Read details  ,technews
+Apache Issues 3rd patch update  version 2.17.0  to fix a new highseverity Log4j vulnerability CVE202145105.Read  ,technews
+Facebook has banned hundreds of accounts linked to 7 cyber mercenary companies that spied on nearly 50000 usersincluding journalists dissidents families of political dissidents and human rights activists.Read  ,technews
+Kaspersky researchers uncover a massscale spyware campaign spreading a new botnet dubbed PseudoManuscrypt that has already infected over 35000 computers this year alone.Read details  ,technews
+A new variant of the Phorpiex botnet malware has been discovered in the wild targeting cryptocurrency transactions.Read details   behind it have already stolen nearly half a MILLION US dollars from victims.,technews
+Researchers uncover coexistence attacks on Broadcom Cypress  Silicon Labs chips installed in billions of devices that could allow Bluetooth chips to directly extract network passwords and manipulate WiFi traffic.Details  ,technews
+A new fileless malware targeting Russian businesses has been spotted using the Windows OS registry as both persistent and temporary storage to evade detection.Read details  ,technews
+Attackers have started exploiting the 2nd Log4J vulnerability CVE202145046 while a third vulnerability has already been reported and its technical details are expected to be published soon.Details  PoC for 3rd  ,technews
+Facebook today expanded its Bug Bounty program to reward researchers for reporting bugs that could allow attackers to bypass data scraping restrictions and also for scraped databases that are available online.Details  ,technews
+Researchers discovered a new malicious module for IIS servers  dubbed Owowa  that attackers are using to steal users Microsoft Exchange credentials and gain remote code execution ability on the underlying servers.Details  ,technews
+Time to update your windows for the last time this year probably.Microsoft releases latest Windows security updates to patch several newly discovered flaws including a new 0day that attackers are exploiting to spread the Emotet malware. ,technews
+URGENT Apache Foundation has issued a new patch CVE202145046 for Log4j utility after the previous patch for the recently disclosed Log4Shell exploit CVE202144228 was deemed incomplete in certain nondefault configurations.Details  ,technews
+Hackers have begun exploiting the latest Log4j vulnerability to infect Windows computers with the Khonsari ransomware.Read details  ,technews
+A ransomware affiliate has been arrested in Romania and in Ukraine 51 people have been arrested for selling stolen personal data of 300 million users.Read details  ,technews
+Apple has released a new iOS update for iPhones to patch several critical security issues including an exploit chain for a recently demonstrated remote jailbreak attack.Read details  ,technews
+ALERT  Update your Google Chrome web browser for Windows Mac and Linux immediately to patch a new zeroday vulnerability  17th this year  discovered in the wild along with 4 others.Read details  ,technews
+Researchers warn of the rise of Karakurt a new hacking group focused on data theft and extortion.Read details  ,technews
+Microsoft describes the distinct building blocks of the decadeold but still widely used banking malware Qakbot to proactively and effectively detect and block the threat.Read details  ,technews
+Several hackers are actively weaponizing unpatched servers affected by the recently disclosed Log4Shell vulnerability in Apache Log4j to install cryptocurrency miners Cobalt Strike and recruit the devices into a botnet.Details  ,technews
+Log4Shell  CVE202144228  CVSS 10A new highly critical RCE vulnerability in the Javabased Log4J logging library affects a large number of applications and services on the Internet.Details   ,technews
+Researchers have spotted a new Rustbased very sophisticated ransomware  dubbed BlackCat  in the wild.Read details  ,technews
+ALERT In a massive ongoing cyber attack nearly 1.6 million WordPress websites were hit with 13.7 million malicious requests from over 16000 different IP addresses.Read details  ,technews
+Russian government has blocked Tor privacy service as part of its latest move towards censorship.Read details  ,technews
+Researchers have discovered at least 300000 IP addresses associated with vulnerable MikroTik network devices that can be hacked remotely using previously known critical vulnerabilities.Read details  ,technews
+A number of malicious NPM javascript packages in the opensource repository have been caught hijacking Discord servers.Read  ,technews
+SonicWall urges customers to immediately patchupdate their SMA 100 series appliances to the latest version in order to prevent exploitation of newly discovered multiple critical  highseverity security vulnerabilities.Details  ,technews
+Google disrupts a sophisticated blockchainbased botnet  dubbed Glupteba  that affected more than 1 MILLION computers around the world and sues two Russian hackers believed to be behind the attack.Read details  ,technews
+Trickbot botnet infected over 140000 computers worldwide within months of helping the Emotet malware get back into action.Read details  ,technews
+QNAP has released a new advisory warning its customers about a new cryptocurrency mining malware targeting NAS devices and advising them to take preventative measures as soon as possible.Read details   ,technews
+A number of vulnerabilities reported in Eltima SDK made several Cloud services vulnerable to privilege escalation attacks.Read  ,technews
+The Russian hacking group that attacked SolarWinds last year is targeting businesses and government entities worldwide.Read details  ,technews
+With the help of a court order Microsoft has successfully seized 42 domain names used by a Chinese hacking group to launch cyberespionage attacks against organizations in the US and 28 other countries.Read details  ,technews
+Latest Firefox 95 version includes a new sandboxing technology called RLBox that protects the browser from untrusted code and other security vulnerabilities.Details  ,technews
+Researchers warn of malicious KMSPico Windows Activators circulating the internet and aiming to steal cryptocurrency wallet credentials.Read details  ,technews
+Hackers stole more than 180 million worth of cryptocurrency tokens from Bitmart Exchange using compromised privacy keys.Details  ,technews
+XS Leaks14 new types of crosssite data leakage attacks have been discovered against a number of modern web browsers including Tor Browser Mozilla Firefox Google Chrome Microsoft Edge Apple Safari and Opera.Read details  ,technews
+Zoho is warning its customers about another critical authentication bypass vulnerability CVE202144515 that is being actively exploited and affects ManageEngine Desktop Central MSP software.Read details  ,technews
+Researchers uncover new strategies and tools used by Pakistani SideCopy APT hackers to target the Indian and Afghan governments.Read details  ,technews
+A new group of hackers known as Magnat is using malvertising campaigns to spread new malware families with information stealers backdoors and malicious Google Chrome extensions.Read details  ,technews
+A new Linux malware infection has been discovered that steals payment data from ecommerce websites and hides in a legitimate NGINX process on the compromised servers.Read details  ,technews
+The FBI and CISA are warning about active exploitation of a recently disclosed critical RCE vulnerability in Zohos ManageEngine ServiceDesk Plus in order to deploy web shells and perform a variety of malicious activities.Details  ,technews
+Meta is expanded the scope of its Facebook Protect security program to include human rights defenders activists journalists and government officials who are more likely to be targeted by malicious actors on social media.Details  ,technews
+A Russian national has been sentenced to 60 months in prison for providing bulletproof hosting to cybercriminals who used the platform to spread malware and attack financial institutions and organizations in the U.S. from 2009 to 2015.Read  ,technews
+A critical vulnerability in Mozillas crossplatform Network Security Services NSS cryptographic library potentially affects a number of software including email clients  PDF viewers such as Thunderbird LibreOffice Evolution.Details  ,technews
+A new botnet malware exploits a previously known unpatched vulnerability in ATT Network Edge devices to launch DDoS attacks and collect sensitive information about U.S. companies.Details  ,technews
+Researchers have observed that several hackers are increasingly using the RTF Template Injection method in widespread phishing attacks that enable decoy documents to retrieve malicious content from remote URLs.Details  ,technews
+A 22yearold hacker sixth member of an international hacking group called The Community has been jailed for stealing millions in cryptocurrency through SIM hijacking attacks.Details  ,technews
+IMPORTANT  Updated Twitter Safety policy prohibits users from posting private photos and videos of people without their consent.Read details  ,technews
+Fsecure researchers discover a critical WORMABLE security vulnerability CVE202139238 in hundreds of different HP Printers.Read details  ,technews
+Panasonic suffers a data breach following a hack of its network and file servers. ,technews
+Researcher disclose details of an unpatched vulnerability CVE202124084 in the Windows OSknown to Microsoft since October 2020that could allow an attacker to gain unauthorized access to the file system and read arbitrary files.Details  ,technews
+WIRTE hacker group targets governments diplomatic entities military organizations law firms and financial institutions mostly in the Middle East.Read details  ,technews
+ Researchers uncover 4 separate Android banking trojan dropper campaigns that infected more than 300000 devices via the Google Play Store in 2021.Read details  ,technews
+Statesponsored hacker group ScarCruft is using a new malware called Chinotto for Windows and Android devices to spy on North Korea defectors journalists and human rights activists.Read details  ,technews
+About 86 of all compromised Google Cloud accounts are used by hackers to mine cryptocurrencies while other instances are used to install ransomware or stage phishing attacks.Read details  ,technews
+In an international operation coordinated by INTERPOL codenamed HAECHIII police arrest more than 1000 suspected cybercriminals and seize a total of nearly 27 million in illicit funds.Read  ,technews
+Italian antitrust authority has fined both Apple and Google 10 million each for using aggressive data practices and failing to clearly inform consumers about the commercial use of their personal data.Read details  ,technews
+An APT hacker group targeted biomanufacturing companies with the help of a custom malware loader called Tardigrade.Read details  ,technews
+Amid NSO Group scandal the Israeli government has dramatically reduced the number of countries to which cybersecurity firms may sell offensive hacking and surveillance tools excluding 65 nations from the export list.Read  ,technews
+Hackers are using a new JavaScript malware strain as a loader to distribute remote access Trojans RATs and information stealers.Read details  ,technews
+A new Iranian hacking group has been discovered exploiting a critical vulnerability in Microsoft Windows MSHTML platform to target Farsispeaking victims with PowerShellbased information stealer. ,technews
+Warning  Hackers are actively exploiting a new zeroday variant of a recently disclosed privilege escalation vulnerability affecting the Windows Installer software component.Read details  ,technews
+VMware has released updates to address two security vulnerabilities CVE202121980 CVE202122049 in vCenter Server and Cloud Foundation that could be abused by a remote attacker to gain access to sensitive information. ,technews
+Researchers uncover details of new vulnerabilities in MediaTeks audio DSP embedded in 37 of all smartphones and IoT devices.Read   these flaws could allow attackers to carry out a massive eavesdrop campaign without the users knowledge.,technews
+Several users in the Middle East are being targeted by the hacker group APT C23 with a new variant of their Android spyware that is stealthy and even more persistent.Read details  ,technews
+Over 9 million Android devices are infected with a new class of informationstealing malware disguised as dozens of arcade shooter and strategy games distributed through Huaweis AppGallery marketplace.Read  ,technews
+Apple has sued Israeli spyware firm NSO Group for allowing statesponsored attackers to illegally hack and spy on its iPhone users via the Pegasus malware.Read details   ,technews
+Researchers publish details of two vulnerabilities CVE20212145 and CVE20212310 in Oracle VM VirtualBox that could allow an attacker to compromise the hypervisor and cause a denial of service DoS.Read   ,technews
+Researchers have spotted a more elusive  stealthy version of BrazKing Android malware in the wild capable of stealing twofactor authentication codes and launching fraudulent transactions from infected devices.Read details  ,technews
+Web hosting company GoDaddy suffers a major data breach affecting over 1 MILLION of its managed WordPress hosting customers exposing theirWordPress admin password set at the time of installationsFTP database users  passwordsSSL private keys ,technews
+Researchers discover a new Golangbased Linux malware that hides as a system process on servers running eCommerce websites.Read  ,technews
+Hackers have been spotted exploiting Microsoft Exchange ProxyLogon and ProxyShell vulnerabilities in spam campaigns where malicious emails were sent as replies to existing email chains.Details  ,technews
+RedCurl a Russianspeaking cyberespionage hacker group has returned after a sevenmonth hiatus with new attacks on four companies this year while improving its toolkit to thwart analysis.Details  ,technews
+North Korean hacking group TA406 has been linked to a series of credentialtheft campaigns targeting research government media and other organizations as well as spreading informationgathering malware.Details  ,technews
+Researchers discover 11 malicious Python libraries distributed via the PyPI repository that aim to install backdooring shells steal Discord access tokens passwords and launch dependency confusion attacks.Read details  ,technews
+The U.S. government has charged two Iranian hackers and sanctioned four other Iranian nationals for allegedly sending threatening emails to American voters and spreading disinformation ahead of the 2020 presidential election.Read  ,technews
+FBI issues a new FLASH ALERT about an actively exploited zeroday vulnerability affecting FatPipe WARP MPVPN and IPVPN router clustering and VPN load balancing devices.Details  ,technews
+PRODAFT researchers have revealed secrets about the inner workings of the Conti ransomware group including the servers real IP addresses and how they made 25 million from their victims.Read details  ,technews
+A critical preauthentication RCE as root vulnerability CVE202134991 affects several models of Netgear SOHO routers.Read  ,technews
+Microsoft warns about the activities of 6 evolving Iranian statesponsored hacking groups that increasingly rely on ransomware to generate revenue and deliberately sabotage their targets.Read details  ,technews
+FBI CISA ACSC NCSC have issued a fresh warning regarding Iranian governmentsponsored APT hackers abusing Microsoft Exchange and Fortinet flaws in the course of their malicious activities including data exfiltration and ransomware.Read  ,technews
+Hackers targeting Myanmar spotted using the technique of domain fronting to hide malicious commandcontrol traffic behind a legitimate domain owned by the Myanmar government.Read details  ,technews
+ESET researchers found a link between the spyware sold by Israeli firm Candiru and wateringhole attacks launched through highprofile sites in U.K. and Middle Eastern countries including Syria Saudi Arabia Yemen and Iran.Read details  ,technews
+New Researchers have demonstrated a new method for fingerprinting advanced MITM phishing toolkits at networklevel that allowed them to automatically detect 1220 phishing websites in the wild.Read details  ,technews
+The infamous Emotet botnet has returned with the help of the TrickBot malware nearly 10 months after a coordinated law enforcement operation dismantled its CC infrastructure in late January 2021.Read details  ,technews
+Researchers have unmasked a new Android Trojan  called SharkBot  that compromises smartphones to steal credentials from banking and cryptocurrency services in Italy the UK and the US.Read details  ,technews
+A new politicallymotivated hacking group called Moses Staff is targeting Israeli companies to cause damage by leaking their stolen sensitive data and encrypting their networks without demanding a ransom.Read  ,technews
+A new analysis of website fingerprinting WF attacks aimed at the Tor web browser has revealed that an adversary can achieve a WF classification accuracy of above 95 when monitoring a small set of 5 popular websites.Read details  ,technews
+North Korean Lazarus hacking group targets cybersecurity researchers using a trojanized pirated version of the popular IDA Pro reverse engineering software.Read  ,technews
+Hackers compromise the FBIs email system in order to send hoax warnings to thousands about a false sophisticated chainattack. ,technews
+Cybercriminals are now increasingly using HTML Smuggling to gain initial access and deploy an array of threats including banking malware remote administration Trojans RATs and ransomware payloads. ,technews
+Researchers are warning of a new evolving botnet called Abcbot that has been spotted in the wild and has wormlike spreading capabilities to infect Linux systems.Details  ,technews
+Researchers have uncovered details of a new watering hole attack carried out via Hong Kongbased websites and exploited a zeroday vulnerability in macOS to install a neverbeforeseen backdoor on visitors computers.Read details  ,technews
+Researchers uncover a new cyber mercenary hackerforhire groupdubbed Void Balaurthat has been conducting cyber espionage and data theft since 2015 and selling the stolen information on underground forums.Details  ,technews
+Operators of the TrickBot Trojan are collaborating with the Shathak threat group to spread their wares which will ultimately lead to the spread of the Conti ransomware to infected machines.Read  ,technews
+According to a new report the Iranian hacking group Lyceum is responsible for a series of targeted attacks on ISPs telecom operators and other targets in Israel Morocco Tunisia and Saudi Arabia.Read details  ,technews
+A new zeroday vulnerability CVE20213064 has been discovered in Palo Alto Networks GlobalProtect VPN which could be exploited by an unauthenticated attacker to execute arbitrary code with root privileges on affected devices.Detail  ,technews
+PhoneSpySouth Korean Android users are being spied on by a new family of 23 malicious apps designed to siphon off sensitive information and take remote control of devices.Read details  ,technews
+Researchers have discovered 14 new critical vulnerabilities affecting the BusyBox utility the Swiss Army knife for Linuxbased embedded devices.Read details  ,technews
+ Nov. 2021 Patch Tuesday  Microsoft releases security patches for 55 new vulnerabilities including two actively exploited zeroday flaws in Excel CVE202142292 and Exchange Server CVE202142321.Read Details  ,technews
+Robinhood a popular trading platform and investing app suffered a data breach in which hackers accessed the data of nearly 7 million users and even attempted to extort the company for ransom.Read  ,technews
+The U.S. Justice Department has charged a Ukrainian national with launching a ransomware attack against software company Kaseya and seized 6.1 million in connection with suspected extortionists.Details  ,technews
+Suspected REvil ransomware affiliates arrested in global takedown including 22yearold allegedly involved in Kaseya supplychain attack.  are responsible for 5000 infections  extorted an estimated 577.70 million from affected businesses.,technews
+At least nine entities across multiple industries were compromised by exploiting a recently patched critical vulnerability in Zohos ManageEngine ADSelfService Plus which was used to drop various shells and stealers.Read  ,technews
+BlackBerry researchers have discovered an Initial Access Broker IAB Zebra2104 thats connected to three malicious groups including MountLocker and Phobos ransomware as well as StrongPity APT. Read  ,technews
+Two popular NPM packages coa and rc with a cumulative weekly download of nearly 22 million have been found to be backdoored with malicious passwordstealer code in another instance of a supplychain attack.Read  ,technews
+CISA has ordered U.S. federal agencies to patch hundreds of actively exploited vulnerabilities discovered in 2021 by November 17 2021 and the remaining older vulnerabilities by May 3 2022.Read Details   ,technews
+United States has announced a 10000000 reward for information leading to the identification or location of key individuals behind the Russialinked DarkSide ransomware group.Read   ,technews
+Cisco has released security patches for flaws affecting multiple products the most critical of which areCVE202140119 Hardcoded SSH Keys Bug in Policy Suite.Multiple flaws affecting Cisco Catalyst PON Series Switches ONT.Read  ,technews
+A heap overflow vulnerability CVE202143267 has been reported in Linux Kernels Transparent Inter Process Communication TIPC module that can be exploited either locally or remotely within a network to gain kernel privileges.Read  ,technews
+BlackMatter ransomware appears to be shutting down and meanwhile researchers have released the latest analysis of new samples showing how operators have been steadily adding new features and encryption capabilities over three months.Read  ,technews
+Facebook is shutting down its decadesold facial recognition system and deleting a vast trove of more than a billion users facial recognition templates citing growing societal concerns about the use of such technology.Read  ,technews
+Android Security Bulletin  Nov 2021 There is a new zeroday vulnerability CVE20211048 that is being exploited by hackers for targeted attacks. Google has rolled out patches for this and 38 other flaws.Read   ,technews
+WARNING A critical unauthenticated remote code execution flaw CVE202122205 affecting GitLab CE is being actively exploited in the wild.Details  ,technews
+Trick  Treat  Google launches a new bugbounty that will reward hackers with 31337 for exploiting already patched Linux kernel vulnerabilities in its lab environment and 50337 for unpatched flaws or a new exploit technique.Details  ,technews
+Multiple critical flaws have been discovered in Hitachi Vantaras Pentaho Business Analytics software that could be abused by hackers to upload arbitrary data files and even execute arbitrary code on the apps underlying host system.Read  ,technews
+Trojan Source AttackResearchers discovered a new class of vulnerabilities that hackers could use to hide malicious code  vulnerabilities in source code of a program effectively opening the door to more firstparty and supply chain risks. ,technews
+Researchers have released details about the PINK malware which they say is the largest botnet observed in the wild in the last six years infecting over 1.6 million devices.Read details  ,technews
+Europol has arrested 12 hackers believed to be behind the LockerGoga MegaCortex and Dharma ransomware attacks which targeted large companies and critical infrastructure with over 1800 victims in 71 countriesRead  ,technews
+Researchers have discovered a new Android malware strain that is capable of rooting smartphones  and gaining complete control over infected devices while simultaneously evading detection.Read  ,technews
+ Shrootless CVE202130892 Microsoft discovered a new SIP bypass vulnerability in Apples macOS system that could allow attackers to gain root privileges and install persistent undetectable rootkit malware.Read details  ,technews
+A Russian hacker extradited to the United States earlier this month has appeared in federal court in Ohio to face charges over his alleged involvement in the notorious TrickBot malware group.Details  ,technews
+IMPORTANT  Google has issued an emergency update version 95.0.4638.69 for Chrome web browser for Windows Mac and Linux users to patch two zeroday vulnerabilities that are being actively exploited in the wild. ,technews
+A researcher has cracked 70 of the 5000 WiFi networks in the Israeli city of Tel Aviv showing how insecure WiFi passwords can open the door to serious threats for individuals small businesses and enterprises.Read  ,technews
+Cybersecurity researchers at ESET have discovered a new unique malware loader dubbed Wslink that runs as a server and executes received modules in memory.Read details  ,technews
+Two more malicious libraries distributed via the official NPM repository have been caught stealing credentials installing remote access trojans and infecting compromised systems with ransomware.Read  ,technews
+A widespread malicious email campaign deploys a new malware loader that gives attackers initial access to corporate networks to spread malicious payloads like Qakbot and Cobalt Strike.Read  ,technews
+North Korean hacking group Lazarus has been observed waging two separate supplychain attacks to gain a foothold in corporate networks and attack downstream organizations.Read details  ,technews
+Over 10 MILLION users have been targeted with 151 malicious Android apps from the Google Play Store that tricked users into paying for premium subscription services without their knowledge or consent.Details  ,technews
+Mozilla warns that two malicious Firefox addons installed by over 455000 users prevent users from downloading security updates accessing updated blocklists and updating remotely configured content.Read details  ,technews
+ Gummy Browsers Researchers find a new way that could let attackers collect browsers fingerprinting information and spoof it without the victims awareness.Read details  ,technews
+Microsoft warns of continued supplychain attacks by hacker group Nobelium which has compromised 14 downstream customers of several cloud service providers managed service providers and other IT service companies.Read  ,technews
+Watch Out Hackers are actively exploiting a critical vulnerability in multiple versions of a time and billing system called BillQuick to deploy ransomware on vulnerable systems.Read details  ,technews
+New York Times journalist Ben Hubbard was repeatedly targeted with Israelbased NSO Groups Pegasus spyware over a threeyear period after reporting on Saudi Arabia.Read details  ,technews
+Microsofts threat intelligence team has uncovered a series of largescale credential phishing campaigns using a custom phishing kit called TodayZoo.Read details  ,technews
+In a multiplecountry effort law enforcement agencies reportedly hacked the infrastructure of REvil ransomware group and forced it offline.Read details  ,technews
+A popular JavaScript NPM library with over 6 million weekly downloads has been hijacked to publish cryptomining malware.Read details  ,technews
+The hacker group Lone Wolf uses political and governmentthemed malicious domains to target entities in India and Afghanistan with commodity RATs.Read details  ,technews
+Cybercrime gang FIN7 created a fake cybersecurity company called Bastion Secure to recruit IT experts and get them to launch ransomware attacks.Read details  ,technews
+Researchers have discovered a new rootkit malware that has a valid digital signature issued by Microsoft and is targeting online gamers in China.Read details  ,technews
+A newly discovered vulnerability in that neverending trial version of the popular WinRAR software could allow attackers to execute arbitrary code on target systems.Read  ,technews
+U.S. government has announced new regulations banning the sale of hacking software and surveillance equipment to Russia China and other authoritarian regimes.Read details  ,technews
+Watch OutGoogle warns that hackers have been hijacking accounts of highprofile YouTube creators with malware that steals browser cookies for session hijacking a technique that can effectively circumvent 2factor authentication.Details  ,technews
+Two Eastern European nationals have been sentenced in the U.S. for offering bulletproof hosting services to cybercriminals which hackers used to distribute malware and attack financial institutions across the country.Read  ,technews
+Researchers have discovered a new vulnerability CVE20210186 in Intel processors dubbed SmashEx that could allow attackers to access to sensitive information stored in SGX enclaves and even execute arbitrary code on vulnerable systems. ,technews
+LightBasin  aka UNC1945 a highly sophisticated hacking group has been identified as behind a series of attacks on the telecommunications sector using custom tools aimed at gathering very specific information.Read  ,technews
+Microsoft has released a new advisory warning of a vulnerability in Surface Pro 3 convertible laptops that could be exploited by an attacker to introduce malicious devices into corporate networks and bypass the device attestation mechanism. ,technews
+A new sandbox escape bug CVE202141556 in the Squirrel engine could allow attackers to execute arbitrary code and hack games and cloud services. ,technews
+A new variant of the FlawedGrace malware KiXtart Loader and MirrorBlast Loader is spreading via mass email campaigns targeting a variety of industries with one of the regionspecific operations targeting Germany and Austria in particular. ,technews
+Cybersecurity experts warn of an increase in Lyceum hacker group activities in Tunisia.Read  ,technews
+Chinese hackers demonstrated new exploits for neverbeforeseen critical vulnerabilities in Windows 10 iOS 15 Google Chrome Apple Safari Microsoft Exchange Server and Ubuntu 20 at the Tianfu Cup 2021.Read  ,technews
+Hackers behind Trickbot are expanding the distribution channels for malware.Read  ,technews
+AllBlock adblocking plugin for Chrome and Opera browsers caught injecting advertisements into Google search results pages.Read  ,technews
+United States Cybersecurity Infrastructure and Security Agency CISA has issued a warning about cyber threats aimed against wastewater and water systems.Read Details  ,technews
+Googles TAG team is tracking 270  governmentbacked hacker groups from more than 50 countries.Read  ,technews
+Multiple security vulnerabilities have been disclosed in softphone software from Linphone and MicroSIP that could be exploited by unauthenticated remote attackers.Read details  ,technews
+After a thorough examination of 80 million samples Googles VirusTotal releases its first Ransomware Activity Report which provides a comprehensive snapshot of ransomware attacks.Read  ,technews
+Researchers have identified a large number of endpoints associated with the Prometheus event monitoring solution deployed at originations that are publicly accessible allowing unauthenticated users to access sensitive information. ,technews
+A critical vulnerability in OpenSea the worlds largest nonfungible token NFT marketplace could have allowed hackers to drain cryptocurrency funds from users wallets.Read  ,technews
+ Microsoft Patch Tuesday October 2021 EditionUpdate your Windows PCs right away to patch 4 new 0day vulnerabilities that are currently being exploited in the wild.Read details  ,technews
+Multiple vulnerabilities have been discovered in LibreOffice and OpenOffice that could be exploited by malicious actors to modify documents to make them appear to be digitally signed by a trusted source.Details  ,technews
+GitHub has revoked weak SSH authentication keys generated via the popular GitKraken git GUI client due to a vulnerability in a thirdparty library that increased the chance of duplicating SSH keys.Read  ,technews
+Microsoft Azures cloud platform was hit by a record 2.4 Tbps DDoS attack targeting an unnamed customer in Europe.Read details  ,technews
+An Iranlinked hacking group has been conducting extensive passwordspraying attacks on more than 250 Office 365 tenants targeting the US Israeli defense firms.  to Microsoft nearly 20 of the targeted tenants were compromised successfully.,technews
+Ukrainian authorities arrest a hacker responsible for creating and managing a powerful botnet consisting of over 100000 enslaved devices used for DDoS and spam attacks on behalf of paying customers.Read details  ,technews
+Apple has released urgent iOS 15.0.2 and iPadOS 15.0.2 updates to address a new critical 0day vulnerability CVE202130883 that is being actively exploited in the wild.Read details  ,technews
+A prominent Togolese human rights defender has been targeted by a threat actor known for striking victims in South Asia with mobile spyware developed in India.Read details  ,technews
+Russianlanguage ransomware attack group FIN12 is increasingly targeting healthcare organizations.Read details  ,technews
+Researchers have detailed a new campaign targeting entities in Southeast Asia using FontOnLake a previously unknown Linux rootkit malware that allows its operators remote access collects credentials and acts as a proxy server. ,technews
+A new urgent Apache patch update has been released for the actively exploited Path Traversal issue CVE202141773 which has now been identified as a critical remote code execution vulnerability.Details  ,technews
+A highseverity code injection vulnerability CVE202138305 has been discovered in 23andMes Yamale a schema and validator for YAML used by at least 224 repositories on GitHub.Read  ,technews
+U.S. Department of Justice announces a new Civil CyberFraud Initiative aimed at holding government contractors accountable for cybersecurity. Read   In addition FCC has established new rules to prevent SIM swapping scams and portout fraud.,technews
+Apple to require all thirdparty iOS iPadOS and macOS app developers to mandatorily make it easy for users to delete their accounts.Details  ,technews
+Twitch the popular live streaming site has suffered a large 125GB data and source code leak as a result of a server configuration issue that was subsequently accessed by a malicious third party.Read details  ,technews
+Researchers have discovered a new cyberespionage campaign targeting the aerospace and telecommunications industries in which attackers are using Dropbox to send commands to RAT malware and store stolen data.Read  ,technews
+Google will automatically enroll around 150 million users in its twofactor authentication scheme by the end of the year as part of its ongoing efforts to prevent unauthorized access to accounts and improve security.Read details  ,technews
+Multiple critical vulnerabilities have been discovered in Honeywell Experion PKS and ACE Controllers that could be exploited for RCE and DoS attacks on critical processes.  CVSS 10TypeCVE202138395 CVSS 9.1CVE202138399 CVSS 7.5,technews
+Researchers have found a previously unknown UEFI bootkit malware  dubbed ESPecter  that cyberespionage hackers have been using to backdoor Windows operating systems at least since 2012.Read details  ,technews
+Apache has issued urgent security patches to address 2 new security vulnerabilitiesincluding a zeroday path traversal and file disclosure flaw CVE202141773 in HTTP servers that it said is being actively exploited in the wild.Details  ,technews
+Chinese cyberespionage group APT41 has been linked to a series of seemingly disparate malware campaigns in which phishing attacks were disguised as coming from Indian government entities.Read details   ,technews
+Ukrainian authorities arrest hackers who attacked more than 100 companies in Europe and North America with ransomware malware.Details  ,technews
+LANTENNA AttackResearchers demonstrate a new mechanism for exfiltrating data from airgapped systemsusing Ethernet cables to generate wireless radio signals.Read  ,technews
+Several poorly configured Apache Airflow instances of companies across various industries exposing their credentials for popular services such as cloud hosting providers payment processing and social media platforms.Read   ,technews
+A new hacking group has been identified as being behind a series of attacks on the fuel energy and aviation industries in Russia the US India Nepal Taiwan and Japan with the aim of stealing data from compromised networks.Details  ,technews
+Researchers have found an unpatched vulnerability in Apple Pay that attackers could exploit to make an unauthorized contactless Visa payment from a locked iPhone.Read details  ,technews
+Chinese spy hackers deploy new rootkit against targeted Windows 10 users working for highprofile entities in Malaysia Thailand Vietnam and Indonesia in addition to outliers in Egypt Ethiopia and Afghanistan.Details  ,technews
+Heres a new free online tool to discover unprotected cloud storage instances.Read more  ,technews
+ALERTThis new malicious campaign is spreading a fake antivirus program that claims to detect the Pegasus Spyware and pretending to be from Amnesty International but actually infecting computers with malware.Read details  ,technews
+IMPORTANT  Google has released another emergency security update for the Chrome web browser this time to fix two new zeroday vulnerabilities that are being actively exploited in the wild.Read details  ,technews
+A new unpatched vulnerability in Microsoft Azure Active Directory AD can be exploited by attackers to perform undetected password brute force attackswithout generating signin events in the targeted organizations tenant.Read details  ,technews
+The hacking group responsible for the SolarWinds cyberattack has been linked to a new backdoor targeting highprofile victims through DNS hijacking on government zones of a CIS member state.Details  ,technews
+Russian authorities have arrested the founder and CEO of cybersecurity company GroupIB on suspicion of treason against the state for allegedly passing on secret information to foreign intelligence services.Read details  ,technews
+Facebook today released Mariana Trench a new opensource tool it has been using internally to detect and prevent security and privacy bugs in Android and Java applications at scale.Read details  ,technews
+WARNING  Two new Android malware distributed via Google Play Store has been targeting Brazils new PIX Instant Payment system to drain users bank accounts.Read details  ,technews
+FinFisher surveillance malware has been updated to infect the UEFI Bootloader on Windows devices with bootkit signaling a shift in attack vectors that allows it to evade detection and analysis.Read details  ,technews
+ALERT Opportunistic hackers are actively exploiting a recently disclosed critical vulnerability in Atlassian Confluence on Windows and Linux to install webshells that lead to the execution of crypto miners on compromised systems.Details  ,technews
+Researchers have discovered a new malware dubbed BloodyStealer which steals account data from popular gaming stores and apps including Bethesda Epic Games GOG Origin Steam Telegram and VimeWorld.Read details  ,technews
+ FoggyWeb Microsoft uncovers a new backdoor deployed by the hacker behind the SolarWinds attack that employs multiple methods to steal credentials to gain administrative access to Active Directory Federation Services servers.Details  ,technews
+A new version of Jupyter infostealer malware is being distributed via MSI installer to become more efficient and evasive.Read details  ,technews
+Google releases a new version 94.0.4606.61 of Chrome browser for Windows Mac and Linux users that includes a security patch for a newly discovered critical zeroday vulnerability that is being actively exploited.Details  ,technews
+FamousSparrow a new APT hacker group is responsible for a series of espionage hacks against hotels around the world as well as governments international organizations engineering firms and law firms.Read  ,technews
+SonicWall has released security updates to address a critical vulnerability affecting the Secure Mobile Access SMA 100 series appliances that allows unauthenticated attackers to remotely gain administrative access on targeted devices.Read  ,technews
+Cybersecurity experts at Google have discovered a new technique that hackers are using to trick Windows systems into bypassing malware detectionby intentionally using malformed code signatures.Read details  ,technews
+Cisco has released security patches for three critical flaws in IOS XE network operating system which remote attackers may exploit to run arbitrary code with administrative rights.Read details  ,technews
+Apple releases urgent updates for iOS and macOS to patch 3 new 0day flaws actively exploited in the wild.Attacks involveCVE202130860  maliciously crafted PDFsCVE202130858  maliciously crafted web contentCVE202130869  malicious app ,technews
+A vulnerability in Microsoft Exchanges Autodiscover protocol exposed around 100000 Windows domain credentials from various apps such as Outlook mobile email clients and others that interacted with the Exchange server.Read details  ,technews
+IMPORTANT  A newly disclosed unpatched weakness in all Microsoft Windows computers shipped since 2012 could allow attackers to bypass system defenses and install rootkit malware with ease.Read details  ,technews
+A terabyte of data containing 5.5 million files was left exposed exposing the personal and buying information of over 100000 customers of a Colombian real estate company.Read details  ,technews
+A new insidious Android malware has been discovered targeting users in U.S. and Canada as part of a new campaign that leverages SMS text message baits linked to COVID19 rules  vaccine information to collect personal and financial data.Read  ,technews
+Microsoft reveals details of a largescale phishingasaservice operation that is responsible for many of the phishing campaigns that impact enterprises today.  offers phishing kits email templates hosting and automated services.,technews
+Researchers reported 11 new security vulnerabilities in Nagios network management systems that could lead to preauthenticated remote code execution with the highest privileges credential theft and phishing attacks.Read details  ,technews
+For the first time the U.S. Treasury has announced sanctions against a cryptocurrency exchange Russias SUEX for its role in laundering financial transactions for ransomware attackers.Read details   ,technews
+A new highseverity remote code execution vulnerability has been discovered in several Netgear router models that could be exploited by MiTM attackers to take control of affected systems.Read details  ,technews
+VMWare warns of 19 new flaws affecting vCenter Server and Cloud Foundation appliances the most serious of which is an arbitrary file upload vulnerability CVE202122005 that allows remote attackers to take control of affected systems. ,technews
+A new UNPATCHED highseverity vulnerability has been disclosed in macOS Finder on Apple machines running Big Sur and earlier versions which could allow remote attackers to trick users into executing arbitrary commands.Details  ,technews
+Cring Ransomware Gang Exploits 11YearOld ColdFusion BugRead  ,technews
+A new malware  codenamed Capoae  scans the web for vulnerable Linux machine and WordPress sites in order to install a backdoored plugin that runs a Golangbased cryptomining software.Read details  ,technews
+An organized crime cell linked to the Italian Mafia that was involved in online fraud money laundering drug trafficking and property crime has been disrupted by law enforcement agencies.Read  ,technews
+A new banking trojan targeting Latin American users has been spotted storing its encrypted remote configuration on legitimate platforms such as YouTube and Pastebin.Read  ,technews
+Researchers have discovered a new malware strain that targets the Linux Subsystem built inside the Windows operating system before infecting the Windows system to launch stealthy attacks.Read details  ,technews
+Researchers have uncovered a malware attack on the aviation industry that has gone unnoticed for nearly two years.Read details  ,technews
+A serious security vulnerability has been discovered in Travis CI that exposed API keys access tokens and credentials potentially putting organizations using public source code repositories to the risk of further attacks.Read details  ,technews
+Netgear Smart Switches are affected by a third critical bug  details and a proofofconcept have been released.Read  ,technews
+A recently disclosed zeroday vulnerability affecting Microsoft Windows MSHTML has been exploited in targeted cyber attacks to deploy Cobalt Strike beacon on targeted systems.Read  ,technews
+Microsoft has introduced a new passwordless mechanism allowing users to signin to their Microsoft accounts without a password.Read more about it here  ,technews
+Critical vulnerabilities discovered in an Azure app that Microsoft secretly installed on Linux virtual machines. Attackers can exploit these bugs to escalate to root privileges and remotely execute malicious code. With a single packet an attacker can become root on a remote machine by simply removing the authentication header. Unfortunately Microsoft cant fix it for you. Users affected by these vulnerabilities must manually update the OMI agent to the patched versions. Details  ,technews
+The United States fines 3 former intelligence and military officials 1.68 million for acting as cyber mercenaries on behalf of a cybersecurity company based in the United Arab Emirates.Read details  ,technews
+Microsoft releases latest Windows security updates as part of its monthly Patch Tuesday release cycle to address 66 newly discovered flaws including an actively exploited zeroday in MSHTML Platform that was discovered last week.Read  ,technews
+Users looking for TeamViewer remote desktop software on search engines like Google are being routed to dangerous links that download ZLoader malware to their PCs leaving the virus undetected by security solutions.Read details  ,technews
+Millions of gaming computers are affected by a new highseverity vulnerability in the HP OMEN driver CVE20213437 that could allow attackers to overwrite system components corrupt the OS or perform other malicious activities.Read  ,technews
+Apple has issued urgent software patches for all of its devices to address a newly discovered and actively exploited zeroday vulnerability tied to the NSO Groups Pegasus Spyware.  should update their iPhone iPad Mac and Apple Watch ASAP,technews
+Update your Google Chrome browser right away to protect against two new zeroday vulnerabilities currently being exploited in the wild by malicious actors.Read  ,technews
+Researchers discover a Linux and Windows reimplementation of Cobalt Strike Beacon that is targeting telecommunications government and financial organizations around the world.Read details  ,technews
+A highseverity remote code execution vulnerability CVE202123406 has been identified in PacResolver a popular NPC package with about 3 million weekly downloads affecting Node.js applications.Read  ,technews
+SpockJs a new sidechannel attack on modern CPUs successfully bypasses the Site Isolation security feature of Chrome and Chromiumbased browsers to protect against Spectretype flaws allowing attackers to steal data from other sites. ,technews
+Mēris botnet hit Russian tech giant Yandex with a recordbreaking DDoS attack peaking at 21.8 million requests per second RPS by using a technique called HTTP pipelining.Read details  ,technews
+Whatsapp has finally closed a major privacy loophole and soon users will be able to endtoend encrypt their chat backups to iCloud or Google Drive.Read  ,technews
+Several banking cryptocurrency wallets and shopping apps are the target of a newly discovered Android trojan that could enable attackers to siphon sensitive data from infected devices including credentials and open the door for ondevice fraud. ,technews
+A previously unknown backdoor malware targeting an unidentified computer retail firm in the United States has been linked to a longstanding Chinese espionage group called Grayfly.Read details  ,technews
+A critical crossaccount takeover vulnerability in Microsofts Azure Container Instances service could have allowed attackers to execute code on other customers containers exfiltrate secrets or deploy cryptominers.Details  ,technews
+REvil ransomware group has returned after a twomonth hiatus following its highly publicized attack against Kaseya.Read  ,technews
+Hackers leak hundreds of thousands of VPN login credentials belonging to users of nearly 87000 Fortinet FortiGate devices.Read  ,technews
+CISA warns of a zeroday vulnerability CVE202140539 affecting Zoho ManageEngine ADSelfService Plus that has been actively exploited in the wild.Details   authentication bypass flaw could lead to arbitrary remote code execution attacks.,technews
+HAProxy a popular load balancer and proxy server has been found vulnerable to HTTP request smuggling attacks due to an integer overflow vulnerability that could allow unauthorized access to sensitive data and execution of arbitrary commands. ,technews
+Researchers uncover a yearlong mobile spying campaign targeting the Kurdish ethnic group using Android backdoors disguised as legitimate apps.Read  ,technews
+Microsoft has issued an advisory WARNING its users about a new actively exploited ZERODAY vulnerability CVE202140444  CVSS score 8.8 that attackers are using to hijack Windows systems by leveraging weaponized Office documents.Details  ,technews
+Hackers exploited a recently disclosed vulnerability in Atlassians Confluence to break into a Jenkins project infrastructure server.  this time we have no reason to believe that any Jenkins releases plugins or source code have been affected,technews
+Despite no log policy ProtonMail shares an activists IP address and device type with law enforcement agencies.  Swiss authorities agree to assist foreign agencies the company has to comply and it could even be forced to hand over data.,technews
+As part of an ongoing campaign cybercriminals are using traffic exchange networks as a broad and fast way to distribute malware click fraud bots information stealers ransomware disguised as cracked versions of popular applications.Read  ,technews
+One of the 3 newly discovered vulnerabilities in NETGEAR Smart Switches an attacker could bypass authentication and gain complete control of the affected device.Patch and PoC released   ,technews
+Apple is temporarily delaying its controversial plans to scan users devices for child sexual abuse material after receiving blowback over fears that the tool could be used as a weapon for mass surveillance and erode users privacy.Read  ,technews
+Microsoft shares technical details of an actively exploited vulnerability affecting SolarWinds ServU FTP server software that it attributes to hackers from China.Read details  ,technews
+U.S. Cyber Command warns of ongoing attacks exploiting a recently disclosed vulnerability CVE202126084 in Atlassian Confluence that could be exploited by unauthenticated attackers to take control of vulnerable systems.Details  ,technews
+New malware family  PRIVATELOG and its installer STASHLOG  relies on the Common Log File System CLFS to hide a second stage payload in registry transaction files and avoid detection.Read more  ,technews
+FIN7 hackers are using Windows 11themed Word documents to drop malicious payloads including a JavaScript backdoor.  attack targeted a USbased pointofsale PoS service provider as part of spearphishing campaigns.,technews
+Cisco has released a patch for a critical vulnerability in its Enterprise NFVIS software which could be exploited by an attacker to take control of affected systems.Read   proofofconcept PoC exploit is available publicly.,technews
+Newly discovered flaws in commercial Bluetooth stacks affect millions of smartphones laptops and industrial and consumer IoT devices.Read   BrakTooth it could allow attackers to run arbitrary code on the device or worse crash it.,technews
+A highseverity security vulnerability in WhatsApps image filtering feature could have been exploited to remotely read sensitive information from victims devices by simply sending them a malicious image through the messaging app.Details  ,technews
+Chinese law enforcement authorities have arrested cybercriminals behind the Mozi IoT botnet nearly two years after the malware first appeared on the threat landscape.Read details  ,technews
+FTC has banned stalkerware app SpyFone from the surveillance business over concerns that it stole and shared sensitive data on peoples physical movements and online activities that stalkers used to monitor potential targets.Read  ,technews
+As the popularity of internetsharing or proxyware platforms such as Honeygain and Nanowire grows cybercriminals are using these platforms as a channel to monetize their malware activities.Read details  ,technews
+Linphones Session Initiation Protocol SIP stack has a vulnerability that can be remotely exploited without the victims knowledge to crash the SIP clients device.Read  ,technews
+QNAP is currently investigating two newly discovered security vulnerabilities in OpenSSL to determine their impact on its networkattached storage NAS appliances and says it will release security updates as needed.Details  ,technews
+Researchers have developed a machine learning technique that relies on authentic interactions between Bluetooth devices to build a reliable technique for securing devicetodevice authentication.Read  ,technews
+Newly discovered vulnerabilities in Fortress S03 WiFi home security alarm system could allow malicious parties to remotely gain unauthorized access and alter system behavior including disarming devices without the victims knowledge.Details  ,technews
+Securing accounts and personal information through singlefactor authentication is now on the United States Cybersecurity and Infrastructure Security Agency CISA list of bad practices.Read  ,technews
+Unauthenticated attackers could exploit a new vulnerability  dubbed ProxyToken CVE202133766  in Microsoft Exchange servers to change mailbox settings and spy on email.Read details  ,technews
+New LockFile ransomware family that emerged last month uses a novel technique known as intermittent encryption to bypass behavioral and statisticalbased ransomware protection.Details  ,technews
+Microsoft is warning users about a widespread credential phishing campaign that uses open redirect links in emails as a vector to trick them into visiting malicious websites by effectively bypassing security software.Details  ,technews
+Google and Microsoft said they are pledging to invest a total of 30 billion in cybersecurity advancements over the next 5 years. ,technews
+USbased technology company Kaseya has released security patches to address two zeroday vulnerabilities affecting its Unitrends enterprise backup and continuity solution that could lead to privilege escalation and RCE attacks.Read  ,technews
+A critical vulnerability in Microsofts Azure Cosmos DB affecting thousands of its cloud computing customers allowed attackers to read modify or even delete databases admin privileges.  notified over 30 of customers about potential breach.,technews
+F5 releases patches for several new vulnerabilities affecting BIG IP BIG IQ devices that could allow attackers to perform a variety of malicious actions including accessing arbitrary files escalating privileges  executing JavaScript code. ,technews
+A critical vulnerability has been discovered in Cisco Application Policy Infrastructure Controller APIC for network switches that could potentially be exploited to read or write arbitrary files on a vulnerable system.Details  ,technews
+Financially motivated FIN8 hackers have been observed installing a new backdoor on infected systems dubbed Sardonic.Read details  ,technews
+Critical security vulnerabilities affecting B. Brauns Infusomat Space large volume pump and SpaceStation could allow remote attackers to tamper with medication doses without prior authentication.Details  ,technews
+A computer retailer in the United States was recently attacked with a new backdoor malware  called SideWalk  as part of an Advanced Persistent Threat campaign by a Chinese hacking group.Read details  ,technews
+A modified version of the WhatsApp messaging app for Android has been trojanized to serve malicious payloads display fullscreen ads and sign up device owners for unwanted premium subscriptions without their knowledge.Read  ,technews
+Default permissions settings in Microsoft Power Apps left 38 million records exposed from dozens of organizations.Read details  ,technews
+Researchers warn of 4 emerging ransomware cybercrime groups that could pose a threat to a number of businesses.Read  ,technews
+Activists in Bahrain were targeted by Pegasus spyware using a new zeroday iPhone exploit devised by the NSO Group.Read details  ,technews
+In a new report researchers warn of the top 15 security vulnerabilities that attackers have exploited millions of times inthewild to hack hundreds of thousands of Linux systems.Read  ,technews
+WARNING  Multiple threat actors are extensively exploiting the ProxyShell vulnerabilities inthewild and have already compromised over 1900 Microsoft Exchange servers.Read details  ,technews
+ShadowPad a privately sold modular malware platform is becoming a favorite of Chinese cyberespionage groups.Details   was the main backdoor used in multiple espionage campaigns including the CCleaner NetSarang and ASUS SupplyChain attacks.,technews
+Cloudflare says it mitigated the largest ever volumetric DDoS attack recorded to date involving a record high of 17.2 million requestspersecond.Read details  ,technews
+A Nigerian cybercrime group has been spotted recruiting employees of several companies by offering them 1 million in Bitcoin in exchange for deploying ransomware on their companies networks as part of an insider threat scheme.Read  ,technews
+Mozi a peertopeer botnet known for targeting IoT devices has gained new capabilities that give it the ability to persist on network gateways manufactured by Netgear Huawei and ZTE.Read  ,technews
+Cisco has informed its customers that it will not provide a patch for a newly discovered critical vulnerability CVE202134730 affecting its small business routers as the devices reach the end of their lifecycle.Read  ,technews
+Researchers have discovered new evidence that links Diavol ransomware to TrickBot malware syndicate.Read details  ,technews
+FireEye has disclosed a new critical vulnerability CVE202128372 in the ThroughTek Kalay P2P SDK that could allow remote attackers to take control of affected devices spy on camera audio and video feeds and compromise device credentials. ,technews
+Blackberrys QNX RealTime Operating System RTOS  embedded in millions of vehicles industrial equipment and healthcare devices  is vulnerable to BadAlloc vulnerability which could let attackers gain control of a wide range of products. ,technews
+Researchers reveal IT and communications companies in Israel were at the center of a supplychain attack campaign led by an Iranian threat actor known as Siamesekitten APT.Read  ,technews
+North Korean APT hackers have been found using IE browser exploits to infect victims with custom implants as part of a strategic web compromise SWC targeting an South Korean online newspaper.Read  ,technews
+Rapid7 discloses a new UNPATCHED vulnerability CVE202122123 in Fortinets Fortiweb Web Application Firewall WAF appliances that could be exploited by a remote authenticated attacker to execute malicious commands on the system.Read  ,technews
+A new social engineeringdriven malvertising campaign has been found targeting cryptocurrency users with the Cinobi banking trojan. ,technews
+Researchers warn about weaknesses in the implementation of the TCP protocol in firewalls and middleboxes that attackers can exploit to launch reflected DoS amplification attacks.Read details  ,technews
+Researchers discover dozens of STARTTLS encryption related vulnerabilities affecting several popular email client software and services.Details   Mail Gmail Mozilla Thunderbird Claws Mail Mutt Exim Samsung Email and Yandex are some of them.,technews
+New AdLoad malware variant bypasses Apples security defenses to target macOS systems.Read  ,technews
+ Glowworm Attack Experts demonstrate a novel technique that uses the optical emanations from a devices power indicator LED to recover sounds from connected peripherals and spy on electronic conversations from up to 35 meters away.Read  ,technews
+Why Is There A Surge In Ransomware AttacksRead  ,technews
+Facebook is expanding endtoend encryption E2EE for voice and video calls in Messenger and is also testing an optin setting that will enable endtoend encryption for Instagram direct messages.Read Details  ,technews
+Microsoft has discovered phishing campaigns in which attackers use Morse code and other encryption techniques to avoid detection.Read details  ,technews
+Hackers are actively hunting for Microsoft Exchange servers with unpatched ProxyShell ProxyOracle and ProxyLogon vulnerabilities.Read details  ,technews
+Watch Out Ransomware attackers are now actively exploiting vulnerabilities in Windows Print Spooler to compromise victims and spread laterally through the victims network to distribute fileencrypting payloads to target systems.Read  ,technews
+New research sheds light on a new Russian malwareasaservice being sold and distributed on underground forums.Details   malware is written in the Rust programming language and aims to steal passwords crypto wallets and FTP client data.,technews
+Global IT consultancy giant Accenture has become the latest company to be hit by the LockBit ransomware gang.  are now threatening to publish the stolen data online.,technews
+Microsoft warns of yet another UNPATCHED Windows Print Spooler vulnerability  CVE202136958 allowing RCE attacks.Read   are advised to stop and disable the Print Spooler service to prevent malicious actors from exploiting the vulnerability.,technews
+Researchers have uncovered a new class of vulnerabilities affecting major managed DNS providers that could allow attackers to spy on massive amount of DNS traffic and exfiltrate sensitive information from corporate networks.Read  ,technews
+In one of the largest heists of cryptocurrencies hackers steal over 600 million worth of Binance Chain Ethereum and Polygon assets from Poly Network a crosschain decentralized financial platform DeFi.Details  ,technews
+Adobe releases update for Magento to fix several critical preauthentication vulnerabilities affecting hundreds of thousands of ecommerce sites.Read  ,technews
+Microsoft rolls out August 2021 Windows security updates to fix 44 newly discovered vulnerabilities including one actively exploited zeroday.Details  ,technews
+Researchers have traced a string of cyberattacks against Israeli government institutions and IT providers to a Chinese cyberespionage group.Read  ,technews
+Researchers warn of an ongoing hacking campaign targeting network routers where attackers are exploiting a newly disclosed critical authentication bypass vulnerability in Arcadyan firmware.Details  ,technews
+A serious vulnerability in the hardware random number generators RNGs affects almost all Internet of Things IoT devices worldwide undermining security related to cryptography access control and authentication.Details  ,technews
+Watch OutA new Android malware campaigndistributing apps via Google Play Store and other marketplaceshacking Facebook accounts of tens of hundreds of users.Read details  ,technews
+A new security patch update for Pulse Secure VPNs has been released to address an incomplete patch previously issued for a critical RCE vulnerability CVE20208260 that was under active exploitation.Read  ,technews
+Apple introduces a new feature in iOS iPadOS watchOS and macOS that automatically scans data on all device for child abuse content.Read   cybersecurity and privacy experts are raising concerns that the project could enable mass surveillance.,technews
+Researchers reported a new flaw in Amazon Kindle that could have allowed remote attackers to take over your eBook reading device.Read details  ,technews
+Koo Indias Twitterlike service was found vulnerable to a critical wormable vulnerability that could be used to automatically launch widespread malicious attacks against hundreds of thousands of users without requiring any interaction.Read  ,technews
+VMware has released security updates for several products to address a critical vulnerability that could be exploited to gain access to confidential information. Workspace One Access Identity Manager Cloud Foundation vRealize AutomationDetails  ,technews
+Several cybercriminal groups are leveraging Prometheus TDS malwareasaservice MaaS solution to distribute a wide range of backdoors including Campo Loader Hancitor IcedID QBot Buer Loader and SocGholish.Read  ,technews
+Beseechers uncovers 5 unpatched flaws in Mitsubishi Safety PLCs that could leave several industries vulnerable to remote attacks.Read   warns  there are risks of communication data eavesdropping tampering unauthorized operation and DoS attacks,technews
+Cisco rolls out security patches to address critical vulnerabilities impacting Small Business VPN routers that could allow remote attackers to execute arbitrary code and launch DoS attacks.Details  ,technews
+Several active malware families targeting Windows IIS web servers with malicious modules.Read   backdoors were also deployed via the recent Microsoft Exchange vulnerability with government entities among the main targets.,technews
+Researchers uncover WebdavO malware used by Chinese statesponsored hackers to target Russian federal executive agencies in 2020.Read  ,technews
+Researchers discover China APT31s new spyware used in widespread cyber espionage attacks.Details   group is linked to a series of cyberattacks targeting Mongolia Russia Belarus Canada and the U.S.,technews
+ Critical vulnerabilities disclosed in NicheStack TCPIP stack used in millions of Operational Technology OT from more than 200 manufacturers  deployed in power generation water treatment and critical infrastructure sectors.Read  ,technews
+Chinese state hackers launched a series of cyberattacks against at least 5 major Southeast Asian telecom companies researchers find.Read details  ,technews
+9 newly discovered vulnerabilitiesdubbed PwnedPiperleave a widely used Pneumatic Tube System PTS vulnerable to critical cyberattacks.  systems are installed in 80 of major hospitals in the U.S.  in no fewer than 3000 hospitals worldwide.,technews
+A new APT hacker group known as Praying Mantis is targeting highprofile public and private organizations in the U.S. by exploiting Microsoft IIS servers with ASP .net exploits to penetrate their networks.Read  ,technews
+A critical vulnerability in Python Package Index PyPI platform could have given attackers complete control over the official software repository spawning supplychain attacks.Details  ,technews
+Solarmarker a highly modular and constantly evolving informationstealing and keylogging malware is once again on the rise targeting healthcare and education sectors.Details  ,technews
+Researchers reveal 30 new commandandcontrolled servers belonging to the Russian hacking group APT29 which is currently delivering WellMess malware as part of ongoing attacks against Windows and Linux systems.Read details  ,technews
+Researchers have discovered several malicious Python libraries hosted on the PyPI repository that aim to steal credit cards and inject code.Read details  ,technews
+A recent cyberattack that disrupted Irans railway system and the ministry of transportation was caused by a neverbeforeseen reusable wiper malware called Meteor.Details  ,technews
+Microsoft has issued a warning about an ongoing malicious campaign employs uses fake call centers to trick users into downloading BazaLoader malware that can sniff data and install ransomware.Read details  ,technews
+Hackers are using a decoy document titled Crimea Manifesto to infect target computers with a fullyfeatured VBA malware.Details   uses two attack vectorsmalicious macros and an IE browser exploitaiming to increase the chances of infection.,technews
+Two new ransomware gangs   Haron and BlackMatter  have appeared on cybercrime forums with one professing to be a successor to DarkSide and REvil infamous syndicates that went off the grid following major attacks on Colonial Pipeline and Kaseya. ,technews
+Vultur  a new Android remote access trojan  uses smartphones screen recording feature to spy on its victims and steal their banking credentials.Details  ,technews
+Here is a list of the top 30 most commonly exploited critical security vulnerabilities that hackers weaponize against broad target sets including public and private sector organizations worldwide.Read details  ,technews
+Chinese cyberespionage group PKPLUG deployed a previously undocumented variant of PlugX RAT on compromised systems during the recent wave of attacks on Microsoft Exchange servers.Read details  ,technews
+An Iranian cyberespionage group spent years posing as an aerobics instructor on Facebook to infect the computer of an aerospace defense contractor with malware.Read details  ,technews
+Zimbra email collaboration software used by over 200000 companies has been found vulnerable to multiple flaws that could be exploited to compromise email accounts  even take full control of mail server when hosted on a cloud infrastructure. ,technews
+Rapid7 has uncovered multiple flaws affecting 3 opensource projects  EspoCRM Pimcore Akaunting  that are used by several small  mediumsized businesses that could provide a pathway for more sophisticated attacks.Details  ,technews
+A growing number of cybercriminals are switching from conventional programming languages to exotic languagessuch as Go Rust Nim Dlangfor malware development that can bypass security and complicate reverseengineering efforts.Read  ,technews
+Microsoft warns of a notorious crossplatform cryptomining malware that has refined and improved its techniques to attack Windows and Linux operating systems.Read details  ,technews
+A newly discovered PetitPotam NTLM relay attack can be exploited by attackers to completely take over Windows domains by forcing remote serversincluding Domain Controllersto authenticate with a malicious machine.Details  ,technews
+Nasty macOS malware XCSSET has been updated once again to steal sensitive data from a variety of apps including Chrome and Telegram.Read  ,technews
+Kaseya has received a universal REvil decryptor to help customers recover data nearly 3 weeks after a supplychain ransomware attack impacted the company. ,technews
+Oracle warns of three newly discovered critical vulnerabilities in Weblogic server software that can be exploited remotely without authentication.Read   part of the July 2021 Patch Updates Oracle also released 342 fixes that span multiple products.,technews
+Another hacker a British national has been arrested in connection with the highprofile 2020 Twitter hack who played a role in the massive bitcoin scam.Read details  ,technews
+In an apparent supplychain attack a software package available from the official NPM repository has been caught stealing users saved passwords from their Chrome web browser.Read details  ,technews
+XLoader a lowcost and popular Windows malware available on rent has now been upgraded to allow cybercriminals to spy on Apples macOS users.Read  ,technews
+Cybersecurity researchers have discovered multiple vulnerabilities in CODESYS automation software and the WAGO PLC platform that can be remotely exploited to compromise an organizations cloud operating technology infrastructure OT.Read  ,technews
+New Windows and Linux Flaws Give Attackers Highest System Privileges SYSTEM  root1  Microsoft has tagged this new vulnerability CVE202136934 marking it as the 3rd publicly disclosed unpatched Windows bug this month.2  Dubbed Sequoia the Linux flaw CVE202133909 affects all kernel versions from 2014 including default installations of Ubuntu Debian Fedora and RHEL. ,technews
+Millions of HP Samsung and Xerox printers worldwide are vulnerable to a new vulnerability CVE20213438 that has gone undetected for 16 years.Read details  ,technews
+Researchers warn of a new malware strain dubbed MosaicLoader that hides among Windows Defender exclusions to evade detection by Microsofts antivirus program.Read details  ,technews
+The United States and its global allies have officially blamed hackers affiliated with the Chinese government for the massive cyberattack on Microsoft Exchange servers.Read  ,technews
+Researchers have gained insight into a group of Romanian cybercriminals which have been identified carrying out cryptojacking attacks on Linux machines with weak passwords.Read  ,technews
+Remember that funlooking WiFi name bug on iOS Turns out the vulnerability can not only disable the iPhones network functionality but can also be exploited to remotely execute malicious code on targeted Apple devices.Details  ,technews
+Yet another unpatched vulnerability has been uncovered in Windows Printer Spooler making it the fourth printerrelated vulnerability found in recent weeks.Read  ,technews
+A new leak reveals how governments abused NSO Groups Pegasus spyware to silence journalists attack activists and suppress dissent in several countries including in Bahrain Hungary India Mexico Saudi Arabia  U.A.E.Read  ,technews
+China has issued new regulations requiring cybersecurity researchers to mandatorily share details of critical zeroday security vulnerabilities firsthand with government authorities within two days of filing a report.Read  ,technews
+ If your Instagram account has been hacked try Security Checkup.Instagram has introduced a new security feature to protect users accounts and help them recover their compromised accounts.Learn more about it  ,technews
+A critical vulnerability reported in the CloudFlare CDNJS infrastructure may have facilitated widespread supply chain attacks. ,technews
+Israeli firm Candiru is embroiled in a scandal for selling 0day exploits to governments  helping them spy on 100s of dissidents journalists activists  politicians globally.Details   2 Windows flaws that Microsoft patched this week.,technews
+Facebook announced that it had taken down about 200 accountsoperated by a group of hackers in Iranthat were involved in a cyberespionage campaign targeting US military personnel and defense contractors.Read  ,technews
+Google has pushed out a new security update for the Chrome browser for Windows Mac and Linux that fixes several vulnerabilities including a zeroday vulnerability CVE202130563 that Google says is being exploited in the wild.Read  ,technews
+Microsoft warns of a new unpatched vulnerability CVE202134481 affecting the Windows Print Spooler service.Read   attacker who successfully exploited it could execute arbitrary code with SYSTEM privileges.,technews
+Chinese hackers linked to LuminousMoth APT have expanded their attacks to a number of Philippine targets and other Southeast Asian government agencies.Read  ,technews
+SonicWall has warned customers of imminent ransomware attacks targeting its Secure Mobile Access SMA 100 series and Secure Remote Access SRA products running unpatched endoflife 8.x firmware.Details  ,technews
+Google sheds new light on 4 zeroday vulnerabilities recently exploited inthewild.Read  ,technews
+Spanish authorities have arrested 16 individuals belonging to a cybercrime network that operates two BANKING TROJANSMekotio and Grandoreirotargeting financial institutions in Europe.Read  ,technews
+Amid rising tensions between the US  Russia over cybercrime REvilinfamous ransomware cartel behind some of the biggest attacks on JBS and Kaseyahas mysteriously disappeared from the dark web.Read  ,technews
+July 2021 Patch Tuesday updates released by 1  Microsoft2  Adobe3  Google Android4  SAP5  VMware6  Citrix7  Linux8  Siemens9  Schneider ElectricRead  ,technews
+Microsoft says Chinese hackers exploited the recently disclosed zeroday vulnerability in SolarWinds ServU FTP software to attack U.S. defence and software companies.Details  ,technews
+Etherpada popular selfhosted opensource alternative to Google Docshas been found to have critical security vulnerabilities that could allow attackers to hijack admin accounts execute system commands and even steal sensitive data.Read  ,technews
+Operation SpoofedScholars Iranian hackers posing as scholars are targeting think tanks journalists and professors in MiddleEast through sophisticated social engineering attacks.Read  ,technews
+Trickbot strikes backThe so far invincible malware has gained a new VNC spying module that cyber criminals are using against selected highvalue targets for surveillance and intelligence gathering. ,technews
+ Microsoft has found a new critical zeroday RCE vulnerability CVE202135211 affecting SolarWinds ServU that is being actively exploited by hackers.Details   ,technews
+Cybercriminals compromised Chinese online gambling sites to spread the BIOPASS RAT malware which uses OBS Studios livestreaming app to capture victims screens.Read details  ,technews
+Kaseya has released security updates to address critical vulnerabilities in its Virtual System Administrator VSA software that hackers exploited in a widespread ransomware attack targeting 1500 businesses worldwide.Details   ,technews
+In an attempt to hide their activities the Magecart group of hackers are now encoding stolen credit card information into imageshosted on the backdoored ecommerce serverbefore exfiltrating the data.Read details  ,technews
+Multiple vulnerabilities have been disclosed in Philips Clinical Collaboration Platform Portal  aka Vue PACS medical imaging systems some of which could be exploited by an attacker to take control of an affected system. ,technews
+Cybercriminals are using a new trick which involves sending nonmalicious office documents that disable macro security warnings before downloading malware and infecting victims machines.Read  ,technews
+New security flaws have been discovered in the Sage X3 enterprise resource planning ERP product two of which could be chained together to allow adversaries to execute malicious commands and take control of vulnerable systems.Read  ,technews
+How to Mitigate Microsoft Print Spooler Vulnerability  PrintNightmare CVE202134527  ,technews
+Cybersecurity researchers uncovered a new ongoing cyberespionage campaign targeting corporate networks with malware in Spanishspeaking countries specifically Venezuela to spy on their victims.Read  ,technews
+SideCopy cyberespionage APT grouppotentially linked to Pakistanhas been observed increasingly targeting Indian government personnel with as many as 4 new custom remoteaccess malware.Details  ,technews
+WARNING  Microsofts emergency patch update for the PrintNightmare RCE exploit fails to fully address the Windows vulnerability  can be bypassed in certain scenarios allowing attackers to execute arbitrary code on infected systems.Details  ,technews
+WildPressure APT campaign targeting industrial entities in the Middle East since 2019 has resurfaced with an upgraded malware toolset to attack both Windows and macOS computers.Read  ,technews
+Researchers have uncovered dozens of critically vulnerable software components hosted on NuGet that are being actively exploited by attackers to attack widelyused software built on the .NET platform.Read details  ,technews
+Microsoft has shipped an emergency security update to address a critical zeroday vulnerability  PrintNightmare  affecting Windows Print Spooler that could allow remote hackers to execute arbitrary code  take over vulnerable systems.Read  ,technews
+ Interpol arrested a hacker  using the alias Dr HeX  in Morocco involved in nefarious cyber activities including phishing defacement malware fraud  carding and also responsible for attacks on telecoms banks  multinationals.Read  ,technews
+NEW Kaseya rules out a supplychain attack claiming attackers exploited an undisclosed 0day vulnerability in onpremises VSA software to infect its customers with ransomware.Read details  ,technews
+Cybercriminals behind the notorious TrickBot malware have been linked to a new ransomware strain named Diavol.Read  ,technews
+Microsoft is urging Azure users to update the PowerShell command line tool as soon as possible to protect against a critical RCE vulnerability CVE202126701 that impacts . NET Core.Read  ,technews
+REvil gang exploited a zeroday vulnerability affecting VSA software in the recent massive supplychain ransomware attack that triggered a chain of infection that compromised thousands of businesses.Read   hackers are now asking for 70 million to unlock all affected systems with a universal decryption programme.,technews
+ Learn to Code  Get 2021 Master Bundle of 13 Online Courses  99 OFF Kickstart your lucrative programming career with 119 ours of video tutorials  ,technews
+ Attention 9 Android apps with a total of 5.8 million installs from the Google Play store were caught stealing users Facebook account passwords.Here are details and a list of malicious apps  ,technews
+ Widespread supplychain ransomware attack hit hundreds of businesses overnight after REvil cybercriminals compromised Kaseyas IT management software and sent malicious updates to nearly 40 managed service providers MSPs worldwide.Read  ,technews
+A new Miraiinspired botnet malware has been discovered in the wild that could hijack your KGUARD DVRs for use in cyberattacks.Read  ,technews
+During a supplychain attack hackers compromised the website of Mongolian Certificate Authority and replaced legitimate MonPass CA client software with a backdoored version to distribute malware.Details  ,technews
+Google releases updated version of Scorecardsan automated tool that scans open source software for security riskswith improved security checks and features.Read details  ,technews
+FBI and NSA reveal hacking techniques used by Russian military hackers to target U.S. and European military government and political entities.Details   ,technews
+ WATCH OUT Microsoft warns of critical PrintNightmare RCE vulnerability CVE202134527 being exploited in the wild.Details   is separate from the Windows Print Spooler issue CVE20211675 Microsoft patched recently.,technews
+Researchers warn of ongoing cyberattacks coordinated by a Chinesespeaking threat actor targeting the Afghan government. ,technews
+Facebook files lawsuit against 4 Vietnamese nationals for hacking accounts of advertising and marketing agency employees to run 36 million worth of unauthorized ads.Details  ,technews
+Researchers have found critical security vulnerabilities in NETGEAR DGN2200v1 series routers that could be exploited by hackers to compromise a targeted network and gain unauthorized access. ,technews
+Colombian authorities have arrested a Romanian hacker wanted in the United States for spreading the Gozi virus which infected more than a million computers between 2007 and 2012.Read  ,technews
+International law enforcement agencies seized the domain servers and logs of the Russiabased DoubleVPN service for providing a safe haven for cybercriminals to cover their tracks.Read  ,technews
+ Researchers publish a proofofconcept exploit for a critical vulnerability CVE20211675 affecting Microsoft Windows operating systems.Details   ,technews
+GitHub has launched a new AIpowered code completion tool  Copilot  to help software developers write better code in a variety of programming languages including Python JavaScript TypeScript Ruby and Go.Read details  ,technews
+Researcher uncover an unpatched vulnerability in Googles Compute Engine platform that could be abused by an attacker to take over virtual machines over the network.Details  ,technews
+Google Play Store now requires all Android app developers to verify their physical address and use twostep verification to prevent scams and fraudulent accounts.Read  ,technews
+Hackers Trick Microsoft Into Signing Netfilter Driver Loaded With Rootkit Malware  ,technews
+This Microsoft Edge Browser Bug Could Have Let Hackers Steal Your Secrets for Any Site  ,technews
+Cisco Adaptive Security Appliances ASA have been actively targeted by hackers following the release of exploit code for a security vulnerability CVE20203580Read  ,technews
+The hackers Hackers responsible for the SolarWinds breach also compromised a Microsoft customer service agent and attempted to further target companys customers.Details   ,technews
+Google has extended the deadline for phasing out 3rdparty tracking cookies in its Chrome browser until the end of 2023 giving the digital advertising industry more time to develop privacyfriendly targeted ads.Read  ,technews
+AttentionA sophisticated cyberattack is currently underway against Zyxel firewalls and VPNs using unknown user accounts  such as zyxelslIvpn zyxelts or zyxelvpntest  to establish unauthorised remote access.Details  ,technews
+A computer virusdubbed Crackonoshspread via cracked copies of popular software has mined nearly 2 million worth of Monero cryptocurrency using 222000 hacked systems.Read  ,technews
+A supervisor for the hacker group FIN7 was sentenced to 7 years in prison for acting as a pentester to maintain a criminal scheme that allowed hackers to steal millions of debit and credit cards.Read  ,technews
+Recently arrested members of the Cl0p ransomware gang were involved in laundering 500 million for malicious actors through a variety of illegal activities.Read   exchange Binance worked with law enforcement to bring down the crime group,technews
+Researchers demonstrated 1click exploit for Atlassians project and software development platform that could potentially be exploited to take over an account and control apps connected via SSO functionality.Read  ,technews
+The BIOSConnect feature of Dell systems contains several highrisk vulnerabilities that could lead to the execution of arbitrary code at the BIOS UEFI level.  least 128 Dell laptop desktop and tablet models are affected by this issue.,technews
+VMware has released security patches for Carbon Black App Control to fix a critical vulnerability CVE202121998 CVSS 9.4 that could allow attackers to access targeted servers without authentication.Details  ,technews
+John David McAfee a controversial mogul and antivirus pioneer committed suicide in a Barcelona jail cell in Barcelona just hours after reports that he would be extradited to face federal charges.Details  ,technews
+A hacker with suspected ties to Pakistan targeted an Indian power transmission and generation organization with ReverseRat malware.Read   say this attacker targets South and Central Asia governments and energy companies.,technews
+Important   Update your Tor browser to the latest version to patch a new privacy vulnerability that can be exploited remotely to track users online activity.Details  ,technews
+A memory leak vulnerability CVE202120019 affecting SonicWall VPN appliances was left unpatched amidst 0day attacks that could allow remote attackers access to sensitive data.Read   patches have now been released.,technews
+An unpatched critical vulnerability affects Plingbased marketplace software for Linux systems that could potentially be exploited to launch supplychain and RCE attacks.Details  ,technews
+Researchers are warning of wormable DarkRadiation ransomware thats targeting RedHat Debianbased Linux distributions and Docker cloud containers.Details  ,technews
+NVIDIA Jetson series chipsets have been found vulnerable to 26 new vulnerabilities the most serious of which can enable attackers to escalate privileges cause DoS and steal information.Details  ,technews
+A team of researchers has developed the DroidMorph tool to illustrate how popular antivirus apps for Android continue to remain vulnerable against different permutations of malware.Read  ,technews
+South Koreas  Atomic Energy Research Institute has disclosed a hack of its internal network that according to the Ministry of Science could be the work of North Korean hackers exploiting a vulnerability in an unnamed VPN software.Read  ,technews
+Researchers warn of increased cyberespionage activities by Chinese statesponsored hackers in neighboring countries.Cyberattacks on Central Asia India and Pakistan were carried out by suspected hackers from the PLAs 69010 cyber offensive unit and affected Indias largest energy company NTPC as well as BSNL the national telecommunications company.Read  ,technews
+As cyberattacks on the software supplychain become a major concern Google is introducing a new security frameworkcalled SLSAto ensure the integrity of packages and prevent unauthorized changes.Details  ,technews
+Russian communications regulator Roskomnadzor bans VyprVPN and Opera VPN services in the country for failing to comply with a blacklisting request and it is likely that more services will be blocked in the near future.Details  ,technews
+URGENT  A new browser 0day vulnerability has been found being exploited in the wild. Details   Users of Windows Mac and Linux should update their software right away.,technews
+APT hacker group TA402Molerats has resurfaced after a twomonth hiatus to target government institutions in the Middle East and global government agencies linked to geopolitics in the region.Details  ,technews
+Telegram and Psiphon VPN users in Iran are being targeted by new spyware from Ferocious Kittena covert surveillance APT group thats been in play for six years.Details  ,technews
+Researchers have disclosed a new executable image tampering attack  dubbed Process Ghosting  that could be exploited by attackers to circumvent security measures and execute malware code on a Windows system.Details  ,technews
+Ukraine has arrested the cybercriminal gang behind Clop ransomware attacks responsible for 500 million in damages.Details  ,technews
+Researchers at Kaspersky have found that the malware attack against South Korean entities was the work of the nationstate hacking group called Andariel.Details  ,technews
+New research finds that ransomware attackers are increasingly shifting from using emails as an intrusion route to purchasing access from other cybercriminal enterprises that have already infiltrated major targets.Read  ,technews
+CISA has issued an advisory warning IoT manufacturers of a critical vulnerability  CVE202132934  CVSS score 9.1 in ThroughTeks P2P SDK that could be exploited by attackers to eavesdrop on connected cameras.Read  ,technews
+Researchers uncover distinctive tactics techniques and procedures TTPs used by Hades ransomware operators that set them apart from the rest of the pack attributing it to a financially motivated threat group called GOLD WINTER. ,technews
+Instagram has paid 30000 bounty to a hacker who reported a security flaw that allowed anyone to see private account posts archived posts Stories Reels and IGTVwithout following them.Read  ,technews
+ALERT  Apple has confirmed that 2 zeroday vulnerabilities in iOS 12.5.3 have been actively exploited in the wild and has shipped urgent outofband security patches to fix them.Details  ,technews
+Google introduces clientside encryption at Workspace giving enterprise customers control over encryption keys.Details   it will be available for Google Drive Docs Sheets and Slides with support for a wide range of files.,technews
+A supplychain attack on the Android emulator NoxPlayer is suspected to be the work of cyberespionage hackers from the group Gelsemium.Details  ,technews
+APT41 hackers from China are believed to be responsible for the data breach at SITA which affected 4.5 million customers of Air India and millions of customers of other airlines.Details  ,technews
+Mozilla analyzed Googles new privacy preserving advertising technologyFLoCand concluded that it does not protect user privacy with its current design.Read  ,technews
+Samsungs preinstalled Android apps contain several critical vulnerabilities that could allow hackers to compromise targeted devices and gain access to users personal data.Details  ,technews
+A newly discovered 7yearold Polkit vulnerability CVE20213560 could allow unprivileged Linux users to gain root access on target systems.Read  ,technews
+A new cyberespionage hacking group has been detected targeting foreign ministries with Turian backdoor.Details  ,technews
+Authorities in the United States have taken down Slilppa marketplace for 80 million stolen login credentialsand charged or arrested over a dozen people in connection with it.Read  ,technews
+Prometheus an emerging ransomware strain in the threat landscape claims to have breached 30 organizations in just four months.Read  ,technews
+Beef supplier JBS USA has paid a 11 MILLION ransom to hackers in response to a cyberattack that disrupted its operations in North America and Australia.Details  ,technews
+Dear readers if you use Google Chrome you should get the latest version immediately.Google has released patches for 14 newly discovered flaws including a 0day vulnerability that is being actively exploited in the wild.Read  ,technews
+ALPACA Attack  A new type of attack that exploits TLS misconfigurations to launch crossprotocol content confusion attacks against secure websites and services.Details  ,technews
+Microsoft warns of a largescale cryptocurrency mining malware campaign attacking Kubernetes clusters via Kubeflow machine learning instances.Read  ,technews
+Microsoft has released new security updates for Windows operating systems and other supported software addressing 50 vulnerabilities including 6 ZERODAY flaws reported to be under active cyberattack. ,technews
+For nearly 3 years the FBI and AFP secretly operated a fake encrypted chat service to intercept 27 million messages bw criminals  arrest over 800 of themand seized 55 luxury vehicles 8 tons of cocaine 250 firearms and over 48 million cash. ,technews
+Researchers are warning of four vulnerabilities in Microsofts Office suiteone of which will be patched todaythat hackers can exploit in Word and Excel documents to inject malicious code.Details  ,technews
+Here are the top 10 privacy and security features Apple announced for iOS and macOS at WWDC2021 Read  ,technews
+U.S. authorities have recovered 63.7 out of 75 Bitcoins  worth about 4.4 million  paid to the DarkSide ransomware extortionists by Colonial Pipeline.Details  ,technews
+Security researchers have discovered the first known malware dubbed Siloscope targeting Windows Server containers to infect Kubernetes clusters in cloud environments.Details  ,technews
+US authorities have charged a Latvian woman for her alleged role as a programmer in a cybercrime ring that developed and deployed the TrickBot banking malware.Details  ,technews
+New  GitHub has updated its platform policy to remove exploit code when used as malware CDN in active cyberattacks. Read details  ,technews
+Taking you from the basics to highlevel hacking bug hunting  penetration testing techniques used by professionals this training bundle offers 1686 tutorials that are ideal for beginners.Access 18 online training courses for just 43  ,technews
+ALERT  Cybercriminals are actively scanning the Internet for VMware vCenter servers that have not yet been patched against a recently disclosed critical RCE vulnerability.CVE202121985  CVSS score 9.8 ,technews
+With the new privacy enhancements Google will allow Android users to optout of Advertising IDbased personalized advertising so that ads can not track them across apps. ,technews
+Google is going to update the Chrome browser with an improved version of the Enhanced SafeBrowsing feature to detect untrusted extensions and suspicious downloads.Read  ,technews
+Necro Python malware has been enhanced with new exploits for more than 10 different web apps and the SMB protocol as well as Tezos cryptocurrency mining capabilities.Read  ,technews
+A new set of critical vulnerabilities has been disclosed in the Realtek RTL8170C WiFi module that could be abused by an attacker to gain elevated privileges on a device and hijack wireless communications.Read  ,technews
+Researchers have revealed yet another Chinese cyberespionage campaign this time targeting a Southeast Asian government via a new backdoor that enables hackers to remotely take screenshots edit files and run commands.Read  ,technews
+A top Russianlanguage underground cybercrime forum has been asking its community to submit unorthodox ways to perpetrate cryptocurrency attacks in exchange for a 115000 prize. ,technews
+Researchers uncover North Korean Windows and Android espionage campaigns targeting South Korean government entities.Read  ,technews
+Be careful. Attackers are actively exploiting an unpatched zeroday vulnerability in a premium ecommerce plugin for WordPress installed on more than 17000 websites.Read details  ,technews
+The U.S. Department of Justice has seized two domain names used by SolarWinds hackers in a recent cyber espionage campaign targeting government agencies think tanks and humanitarian groups.Read details  ,technews
+Malware authors can use these 2 new tactics to bypass the antiransomware defenses offered by popular antivirus programs and disable their realtime protection.Learn more about the CutandMouse and Ghost Control attacks  ,technews
+Denmarks Secret Service assisted the U.S. NSA in wiretapping underwater Internet cables and spying on the German Chancellor Angela Merkel and other European politicians and highranking officials.Read  ,technews
+Starting June 8 Amazon will automatically enable a feature on your Alexa Echo or other Amazon devices that will share some of your Internet bandwidth with your neighbors.Learn how to turn off Amazon Sidewalk   ,technews
+A new serious memory protection bypass vulnerability affects Siemens SIMATIC S71200 and S71500 PLCs that could allow attackers to gain unrestricted and undetected code execution.Read details  ,technews
+Researchers demonstrate 2 new attack techniques on certified PDF documents that allow an attacker to alter visible content without invalidating the signature.Read details  ,technews
+Researchers have revealed technical details of how Facefish infects targeted Linux systems with rootkits to steal victims login credentials.Read  ,technews
+Hackers behind SolarWinds supplychain attack target government agencies think tanks consultants and other organizations in 24 countries with new backdoor malware.Read details  ,technews
+Chinese hackers continue to target Pulse Secure VPN devices as part of their cyberespionage activities dropping malicious web shells to exfiltrate sensitive information from corporate networks. ,technews
+Watch OutCybercriminals used malvertising campaigns on Google search pages to spread trojanized installers of the widely used remote desktop software AnyDesk.Read details  ,technews
+Hackers are now using fake foundations to trick Uyghurs based in Pakistan and China into downloading malware as part of espionage activities.Read details  ,technews
+Researchers have discovered severe security vulnerabilities in Visual Studio Code extensions demonstrating yet another supply chain attack vector that could enable attackers to compromise local machines as well as build and deployment systems through an integrated development environment IDE. ,technews
+Iranian hackers deployed a series of destructive wiper malware attacks against Israeli targets disguising the activities as ransomware attacks.Read  ,technews
+ WhatsApp has sued the Indian government over new Internet regulations that could force it to break encryption for traceability eventually putting the privacy of billions of users at risk.Read  ,technews
+Researchers at Google have discovered yet another variant of the DRAM Rowhammer attack called HalfDouble that bypasses all existing defenses to tamper with data stored in memory.Read details  ,technews
+A critical flaw  CVE202121985  has been found in VMware vCenter Server that could let attackers execute arbitrary code on the targeted servers.  VMware has released patches for a separate authentication issue affecting vSphere Client.,technews
+Russianlanguage darkweb marketplace Hydra has emerged as a hotspot for illicit activities pulling in a whopping 1.37 BILLION worth of cryptocurrencies in 2020.Read details  ,technews
+A new highseverity buffer overflow vulnerability CVE202122908 has been reported in Pulse Connect Secure PCS that allows a remote authenticated user with privileges to browse SMB shares to execute arbitrary code as the root user.Read  ,technews
+A newly discovered set of vulnerabilities in Bluetooth Core and Mesh Profile specifications could pose a threat to legitimate devices allowing attackers to impersonate them and initiate MITM attacks.Read  ,technews
+Apple has released software updates for iOS macOS tvOS watchOS and Safari web browser containing security patches to address multiple vulnerabilitiesincluding EMERGENCY security patches for the ongoing 0DAY attacks ,technews
+A new study has revealed that statesponsored hackers linked to North Korea were behind a series of CryptoCore cyberattacks on cryptocurrency exchanges over the past 3 years.Read  ,technews
+Researchers disclose details on several critical vulnerabilities affecting Nagios IT monitoring software that could let attackers hijack corporate networks.Read  ,technews
+The FBI has issued a FLASH ALERT warning of the Conti ransomware that has affected 16 healthcare and emergency services organizations in the United States.Read details  ,technews
+A massive data breach at Indias flag carrier airline  AirIndia  has exposed credit card and passport data of 4.5 million passengers registered between August 2011 and February 2021 a period of nearly 10 years.Read  ,technews
+CNA Financial one of the largest insurance companies in the US has reportedly paid hackers 40 MILLION in ransom to regain access to its systemsmaking it the most expensive ransom payment to date.Read  ,technews
+Microsoft warns users to be watchful of the threat of STRRAT datastealing malware which is being spread through a massive email campaign posing as a ransomware infection.Read details  ,technews
+Personal data of over 100 million users is exposed by 23 Android apps on the Google Play Store potentially making them a lucrative target for malicious actors.The list of affected apps can be found here  ,technews
+Researchers find that the Oldsmar water plant was likely targeted by a watering hole attack via the website of an infrastructure contractor in the U.S. state of Florida.Read  ,technews
+Google has released Android security updates including patches for 4 zeroday vulnerabilities affecting Arm and Qualcomm components that have been exploited in the wild.Details  ,technews
+Cybercriminals behind the DarkSide ransomware attacks extorted nearly 90 million in ransom from multiple victims in 9 months.Read  ,technews
+Mozilla has begun rolling out Site Isolation security feature for its Firefox browser in nightly and beta channels that aims to protect users against a new class of attacks from malicious sites.Read details  ,technews
+ AWESOMEGoogle Chrome browser to offer users a new feature allowing them to identify and reset their compromised passwords for various websites with just oneclick.Read details  ,technews
+A new report uncovers how Apple gave the Chinese government access to its users iCloud data and also allegedly censored several apps.Read details  ,technews
+Over 150 vulnerabilities have been discovered in 58 popular Android stalkerware apps allowing others to take control of them and put victims security and privacy at even greater risk.Read  ,technews
+Watch Out Users Bizarro banking malware has now been targeting over 70 banks in Europe and South America.Read  ,technews
+Researchers demonstrated how attackers could upload data from noninternetconnected devices by taking advantage of the Find My Network feature in nearby Apple devices.Read details  ,technews
+Researchers uncover an ongoing malware campaign that heavily relies on the AutoHotkey AHK scripting language to spread several remoteaccess Trojans RAT such as Revenge RAT LimeRAT AsyncRAT Houdini and Vjw0rm.Read  ,technews
+DarkSide the cybercriminal group behind the recent ransomware attack on a US pipeline company has gone underground after its servers and Bitcoins were seized. ,technews
+Cybercriminals are distributing RAT and passwordstealing malware filelessly using Microsoft Build Engine an opensource development tool.Read  ,technews
+Transparent Tribe APT a Pakistanlinked hacker group known for attacking Indian diplomatic and military facilities has increased its hacking tool arsenal with new Windows malware.Read  ,technews
+Magecart cybercriminals are now hiding malicious PHP shell backdoors in the websites favicon to maintain remote access and steal financial data from ecommerce users.Read  ,technews
+Colonial Pipeline paid hackers 5 million to regain control of its data and network after a devastating cyberattack forced the company to shut down fuel pipeline operations for six days.Read  ,technews
+Source code of cybersecurity company Rapid7 was accessed by hackers during a recent supplychain attack that compromised Codecov a popular code coverage tool.Details  ,technews
+The dark web is getting loaded with bogus COVID19 test results fraudulent vaccination cards and questionable vaccines.Read  ,technews
+ Attention A set of new vulnerabilitiesdubbed FragAttacksaffects nearly all WiFi devices shipped in the past 24 years.  flaws could let hackers forge encrypted frames in various ways enabling code execution and exfiltration of sensitive data.,technews
+Patch Tuesday May 2021Microsoft has released the latest Windows updates to patch a dozen newly discovered vulnerabilities one of the most critical of which is a wormable RCE CVE202131166 in the HTTP protocol stack.Read details   ,technews
+BABUK ransomware hacker gang leaked data from the Metropolitan Police Department after talks failed over 4 million ransom demand.Read details  ,technews
+Alert Hackers Exploit Adobe Reader 0Day Vulnerability in the WildRead   receiving critical patches today are Adobe Experience Manager InDesign Illustrator Magento Creative Cloud Media Encoder After Effects and Animate.,technews
+US intelligence agencies are warning of weaknesses in the 5G networksuch as inadequate deployments and supply chain threatsthat cybercriminals and nationstate adversaries can exploit to gain valuable intelligence.Read  ,technews
+Experts warn of TeaBot a new Android banking Trojan that hijacks users credentials and SMS messages to enable fraudulent activity against users of more than 60 banks in Spain Germany Italy Belgium and the Netherlands.Read  ,technews
+The United States government has declared emergency in 17 states and D.C. over a cyberattack on a major fuel pipeline company. Read  ,technews
+WARNING  Over 25 of Tor exit relays have been spying on users dark web activity since an unknown threat actor managed to increase the number of servers and now control over 27 of the total Tor network exit capacity.Details  ,technews
+Four people have pleaded guilty to helping cyber criminals with bulletproof hosting used to spread malware such as Zeus SpyEye Citadel and Blackhole Exploit Kit.Read  ,technews
+A major ransomware cyberattack forced Colonial Pipelinethe largest fuel pipeline operator in the United Statesto shut down its entire network.Details  ,technews
+ WATCH OUT  U.S. and British authorities have warned of top 12 software security vulnerabilities that Russian intelligence hackers are exploiting in various operations.Find details here  ,technews
+Facebook has decided it wont deactivate WhatsApp accounts that dont agree with its latest controversial privacy policy by May 15 but will instead restrict some key features as a reminder. ,technews
+Google this week announced 4 major privacy and security that everyone needs to know about Twofactor authentication for all by default.  Privacy labels for Google Play apps HardwareEnforced Exploit Protection for Chrome Cosign for signing and verifying container imagesRead details here  ,technews
+A researcher has disclosed 6 unpatched 0day vulnerabilities affecting the RemoteMouse app for Android over 1 million installs  iOS devices that could let remote hackers gain full RCE on connected computers without user interaction.Read  ,technews
+TsuNAME  A new critical vulnerability affecting DNS resolvers could let attackers carry out reflectionbased DDoS attacks to take down authoritative servers.Find details here  ,technews
