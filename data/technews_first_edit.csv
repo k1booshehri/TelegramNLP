@@ -1,3 +1,5 @@
+Researchers have found a backdoor in multiple versions of a WordPress plugin called School Management Pro that gives attackers complete control over websites that use it.Read  ,technews
+Cisco releases security patches for a new vulnerability in its IOS XR software that has been exploited in realworld attacks to access Redis instances.Read details   ,technews
 Microsoft has discovered that the activity of the Linux botnet malware known as XorDdos has increased by 254 in the last six months.Read  ,technews
 Google researchers have pointed fingers at spyware company Cytrox for developing exploits for 5 zeroday vulnerabilities including 4 in Chrome and 1 in Android to remotely hack targeted Android devices.Read  ,technews
 Researchers discover a new Rust Crate Registrys software supply chain attack targeting cloud continuous integration CI pipelines with malware written in the Go language.Read  ,technews
@@ -996,5 +998,3 @@ A major ransomware cyberattack forced Colonial Pipelinethe largest fuel pipeline
  WATCH OUT  U.S. and British authorities have warned of top 12 software security vulnerabilities that Russian intelligence hackers are exploiting in various operations.Find details here  ,technews
 Facebook has decided it wont deactivate WhatsApp accounts that dont agree with its latest controversial privacy policy by May 15 but will instead restrict some key features as a reminder. ,technews
 Google this week announced 4 major privacy and security that everyone needs to know about Twofactor authentication for all by default.  Privacy labels for Google Play apps HardwareEnforced Exploit Protection for Chrome Cosign for signing and verifying container imagesRead details here  ,technews
-A researcher has disclosed 6 unpatched 0day vulnerabilities affecting the RemoteMouse app for Android over 1 million installs  iOS devices that could let remote hackers gain full RCE on connected computers without user interaction.Read  ,technews
-TsuNAME  A new critical vulnerability affecting DNS resolvers could let attackers carry out reflectionbased DDoS attacks to take down authoritative servers.Find details here  ,technews

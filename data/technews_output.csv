@@ -1,4 +1,10 @@
 message,technews
+"Researchers have found a backdoor in multiple versions of a WordPress plugin called School Management Pro that gives attackers complete control over websites that use it.
+
+Read: https://thehackernews.com/2022/05/researchers-find-backdoor-in-school.html",technews
+"Cisco releases security patches for a new vulnerability in its IOS XR software that has been exploited in real-world attacks to access Redis instances.
+
+Read details — https://thehackernews.com/2022/05/cisco-issues-patches-for-new-ios-xr.html",technews
 "Microsoft has discovered that the activity of the Linux botnet malware known as ""XorDdos"" has increased by 254% in the last six months.
 
 Read: https://thehackernews.com/2022/05/microsoft-warns-rise-in-xorddos-malware.html",technews
@@ -3236,9 +3242,3 @@ Find details here: https://thehackernews.com/2021/05/top-11-security-flaws-russi
 — Hardware-Enforced Exploit Protection for Chrome
 — Cosign for signing and verifying container images
 Read details here: https://thehackernews.com/2021/05/4-major-privacy-and-security-updates.html",technews
-"A researcher has disclosed 6 unpatched 0-day vulnerabilities affecting the ""RemoteMouse"" app for Android (over 1 million installs) & iOS devices that could let remote hackers gain full RCE on connected computers without user interaction.
-
-Read: https://thehackernews.com/2021/05/6-unpatched-flaws-disclosed-in-remote.html",technews
-"TsuNAME — A new critical vulnerability affecting DNS resolvers could let attackers carry out reflection-based DDoS attacks to take down authoritative servers.
-
-Find details here: https://thehackernews.com/2021/05/new-tsuname-flaw-could-let-attackers.html",technews

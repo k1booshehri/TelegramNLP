@@ -215,7 +215,7 @@ with open('../data/sports_output.csv', 'r') as inp, open('../data/sports_first_e
             new_row = row.copy()
             new_row[0]=''.join(e for e in new_row[0] if (e.isalnum() or e == " " or e == "."))
             new_row[0] = re.sub("bit.ly[^ ]*", " ", new_row[0])
-            new_row[0] = re.sub("https[^ ]*", " ", new_row[0])
+            new_row[0] = re.sub("http[^ ]*", " ", new_row[0])
             writer.writerow(new_row)
 
 
