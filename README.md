@@ -1,5 +1,5 @@
 # TelegramNLP
-##Transformers
+## Transformers
 Transformers (Attention is all you need) were introduced in the context of machine translation with the purpose to avoid recursion in order to allow parallel computation (to reduce training time) and also to reduce drops in performance due to long dependencies. The main characteristics are:
 
 Non sequential: sentences are processed as a whole rather than word by word.
@@ -7,7 +7,7 @@ Self Attention: this is the newly introduced 'unit' used to compute similarity s
 Positional embeddings: another innovation introduced to replace recurrence. The idea is to use fixed or learned weights which encode information related to a specific position of a token in a sentence.
 The first point is the main reason why transformer do not suffer from long dependency issues. The original transformers do not rely on past hidden states to capture dependencies with previous words. They instead process a sentence as a whole. That is why there is no risk to lose (or "forget") past information. Moreover, multi-head attention and positional embeddings both provide information about the relationship between different words.
 
-##RNN / LSTM
+## RNN / LSTM
 Recurrent neural networks and Long-short term memory models, for what concerns this question, are almost identical in their core properties:
 
 Sequential processing: sentences must be processed word by word.
